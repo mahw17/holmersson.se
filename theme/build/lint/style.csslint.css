@@ -1,0 +1,1374 @@
+
+
+csslint: There are 275 problems in E:\Holmersson\Google Drive\dbwebb-kurser\design\me\kmom03\anax-flat\theme\build\css\style.css.
+
+style.css
+1: warning at line 79, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: content-box;
+
+style.css
+2: warning at line 254, col 6
+Unqualified attribute selectors are known to be slow.
+html [type="button"],
+
+style.css
+3: warning at line 255, col 1
+Unqualified attribute selectors are known to be slow.
+[type="reset"],
+
+style.css
+4: warning at line 256, col 1
+Unqualified attribute selectors are known to be slow.
+[type="submit"] {
+
+style.css
+5: warning at line 257, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: button;
+
+style.css
+6: warning at line 264, col 1
+Unqualified attribute selectors are known to be slow.
+[type="button"]::-moz-focus-inner,
+
+style.css
+7: warning at line 265, col 1
+Unqualified attribute selectors are known to be slow.
+[type="reset"]::-moz-focus-inner,
+
+style.css
+8: warning at line 266, col 1
+Unqualified attribute selectors are known to be slow.
+[type="submit"]::-moz-focus-inner {
+
+style.css
+9: warning at line 274, col 1
+Unqualified attribute selectors are known to be slow.
+[type="button"]:-moz-focusring,
+
+style.css
+10: warning at line 275, col 1
+Unqualified attribute selectors are known to be slow.
+[type="reset"]:-moz-focusring,
+
+style.css
+11: warning at line 276, col 1
+Unqualified attribute selectors are known to be slow.
+[type="submit"]:-moz-focusring {
+
+style.css
+12: warning at line 292, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: border-box;
+
+style.css
+13: warning at line 325, col 1
+Unqualified attribute selectors are known to be slow.
+[type="checkbox"],
+
+style.css
+14: warning at line 326, col 1
+Unqualified attribute selectors are known to be slow.
+[type="radio"] {
+
+style.css
+15: warning at line 327, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: border-box;
+
+style.css
+16: warning at line 335, col 1
+Unqualified attribute selectors are known to be slow.
+[type="number"]::-webkit-inner-spin-button,
+
+style.css
+17: warning at line 336, col 1
+Unqualified attribute selectors are known to be slow.
+[type="number"]::-webkit-outer-spin-button {
+
+style.css
+18: warning at line 343, col 1
+Unqualified attribute selectors are known to be slow.
+[type="search"] {
+
+style.css
+19: warning at line 344, col 3
+Expected (none | button | button-bevel | caps-lock-indicator | caret | checkbox | default-button | listbox	| listitem | media-fullscreen-button | media-mute-button | media-play-button | media-seek-back-button	| media-seek-forward-button	| media-slider | media-sliderthumb | menulist	| menulist-button	| menulist-text	| menulist-textfield | push-button	| radio	| searchfield	| searchfield-cancel-button	| searchfield-decoration | searchfield-results-button | searchfield-results-decoration | slider-horizontal | slider-vertical | sliderthumb-horizontal | sliderthumb-vertical	| square-button	| textarea	| textfield	| scrollbarbutton-down | scrollbarbutton-left | scrollbarbutton-right | scrollbarbutton-up | scrollbargripper-horizontal | scrollbargripper-vertical | scrollbarthumb-horizontal | scrollbarthumb-vertical | scrollbartrack-horizontal | scrollbartrack-vertical) but found 'textfield'.
+  -webkit-appearance: textfield;
+
+style.css
+20: warning at line 344, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: textfield;
+
+style.css
+21: warning at line 352, col 1
+Unqualified attribute selectors are known to be slow.
+[type="search"]::-webkit-search-cancel-button,
+
+style.css
+22: warning at line 353, col 1
+Unqualified attribute selectors are known to be slow.
+[type="search"]::-webkit-search-decoration {
+
+style.css
+23: warning at line 354, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: none;
+
+style.css
+24: warning at line 361, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: button;
+
+style.css
+25: warning at line 401, col 1
+Unqualified attribute selectors are known to be slow.
+[hidden] {
+
+style.css
+26: warning at line 442, col 1
+Rule doesn't have all its properties in alphabetical order.
+.inner-wrap {
+
+style.css
+27: warning at line 456, col 1
+Element (html.hgrid) is overqualified, just use .hgrid without element name.
+html.hgrid .inner-wrap {
+
+style.css
+28: warning at line 459, col 1
+Adjoining classes: .inner-wrap.inner-wrap-header
+.inner-wrap.inner-wrap-header {
+
+style.css
+29: warning at line 459, col 1
+Rule doesn't have all its properties in alphabetical order.
+.inner-wrap.inner-wrap-header {
+
+style.css
+30: warning at line 464, col 12
+Adjoining classes: html.vgrid   .inner-wrap.inner-wrap-header
+html.vgrid .inner-wrap.inner-wrap-header {
+
+style.css
+31: warning at line 465, col 3
+Background image '../img/grid950x24x30x10-nomargin.png' was used multiple times, first declared at line 448, col 3.
+  background: url("../img/grid950x24x30x10-nomargin.png") repeat-y fixed center center;
+
+style.css
+32: error at line 468, col 26
+Unexpected token '{' at line 468, col 26.
+@media (min-width: 100%) {
+
+style.css
+33: error at line 468, col 24
+Unexpected token ')' at line 468, col 24.
+@media (min-width: 100%) {
+
+style.css
+34: error at line 468, col 20
+Unexpected token '100%' at line 468, col 20.
+@media (min-width: 100%) {
+
+style.css
+35: error at line 468, col 20
+Expected RPAREN at line 468, col 20.
+@media (min-width: 100%) {
+
+style.css
+36: warning at line 469, col 14
+Adjoining classes: html.vgrid   .inner-wrap.inner-wrap-header
+  html.vgrid .inner-wrap.inner-wrap-header {
+
+style.css
+37: error at line 472, col 1
+Unexpected token '}' at line 472, col 1.
+}
+
+style.css
+38: warning at line 473, col 1
+Rule doesn't have all its properties in alphabetical order.
+.outer-wrap-footer {
+
+style.css
+39: warning at line 477, col 1
+Rule doesn't have all its properties in alphabetical order.
+.row {
+
+style.css
+40: warning at line 482, col 3
+Use of !important
+  margin-bottom: 0!important;
+
+style.css
+41: warning at line 485, col 1
+Rule doesn't have all its properties in alphabetical order.
+.row::after {
+
+style.css
+42: warning at line 496, col 1
+Adjoining classes: main.main.has-sidebar-left.has-sidebar
+main.main.has-sidebar-left.has-sidebar {
+
+style.css
+43: warning at line 496, col 1
+Rule doesn't have all its properties in alphabetical order.
+main.main.has-sidebar-left.has-sidebar {
+
+style.css
+44: warning at line 496, col 1
+Element (main.main.has-sidebar-left.has-sidebar) is overqualified, just use .has-sidebar-left without element name.
+main.main.has-sidebar-left.has-sidebar {
+
+style.css
+45: warning at line 496, col 1
+Adjoining classes: main.main.has-sidebar-left.has-sidebar
+main.main.has-sidebar-left.has-sidebar {
+
+style.css
+46: warning at line 498, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+47: warning at line 499, col 3
+width can't be used with display: inline.
+  width: 69.79166667%;
+
+style.css
+48: warning at line 502, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 4.6875%;
+
+style.css
+49: warning at line 504, col 1
+Rule doesn't have all its properties in alphabetical order.
+.main {
+
+style.css
+50: warning at line 506, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+51: warning at line 507, col 3
+width can't be used with display: inline.
+  width: 82.29166667%;
+
+style.css
+52: warning at line 510, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 8.85416667%;
+
+style.css
+53: warning at line 520, col 1
+Rule doesn't have all its properties in alphabetical order.
+.sidebar {
+
+style.css
+54: warning at line 522, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+55: warning at line 523, col 3
+width can't be used with display: inline.
+  width: 23.95833333%;
+
+style.css
+56: warning at line 527, col 1
+Rule doesn't have all its properties in alphabetical order.
+.byline {
+
+style.css
+57: warning at line 529, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+58: warning at line 530, col 3
+width can't be used with display: inline.
+  width: 40.625%;
+
+style.css
+59: warning at line 533, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 4.6875%;
+
+style.css
+60: warning at line 535, col 1
+Rule doesn't have all its properties in alphabetical order.
+.footer-column {
+
+style.css
+61: warning at line 537, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+62: warning at line 538, col 3
+width can't be used with display: inline.
+  width: 32.29166667%;
+
+style.css
+63: warning at line 542, col 3
+margin-bottom can't be used with display: inline.
+  margin-bottom: 24px;
+
+style.css
+64: warning at line 543, col 3
+height can't be used with display: inline.
+  height: 216px;
+
+style.css
+65: warning at line 554, col 1
+Rule doesn't have all its properties in alphabetical order.
+.site-footer {
+
+style.css
+66: warning at line 556, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+67: warning at line 557, col 3
+width can't be used with display: inline.
+  width: 98.95833333%;
+
+style.css
+68: warning at line 565, col 1
+Rule doesn't have all its properties in alphabetical order.
+.imgAbout {
+
+style.css
+69: warning at line 568, col 3
+Using width with border can sometimes make elements larger than you expect.
+  border: 5px solid black;
+
+style.css
+70: warning at line 575, col 3
+Background image '../img/grid950x24x30x10-nomargin.png' was used multiple times, first declared at line 448, col 3.
+  background: url("../img/grid950x24x30x10-nomargin.png") repeat-y fixed center center;
+
+style.css
+71: warning at line 583, col 1
+Rule doesn't have all its properties in alphabetical order.
+body.route-grid .inner-wrap.inner-wrap-header {
+
+style.css
+72: warning at line 583, col 17
+Adjoining classes: body.route-grid   .inner-wrap.inner-wrap-header
+body.route-grid .inner-wrap.inner-wrap-header {
+
+style.css
+73: warning at line 587, col 3
+Background image '../img/grid950x24x30x10-nomargin.png' was used multiple times, first declared at line 448, col 3.
+  background: url("../img/grid950x24x30x10-nomargin.png") repeat-y fixed center center;
+
+style.css
+74: error at line 590, col 24
+Unexpected token ')' at line 590, col 24.
+@media (min-width: 100%) {
+
+style.css
+75: error at line 590, col 20
+Expected RPAREN at line 590, col 20.
+@media (min-width: 100%) {
+
+style.css
+76: error at line 590, col 26
+Unexpected token '{' at line 590, col 26.
+@media (min-width: 100%) {
+
+style.css
+77: error at line 590, col 20
+Unexpected token '100%' at line 590, col 20.
+@media (min-width: 100%) {
+
+style.css
+78: warning at line 591, col 19
+Adjoining classes: body.route-grid   .inner-wrap.inner-wrap-header
+  body.route-grid .inner-wrap.inner-wrap-header {
+
+style.css
+79: error at line 594, col 1
+Unexpected token '}' at line 594, col 1.
+}
+
+style.css
+80: warning at line 595, col 1
+Rule doesn't have all its properties in alphabetical order.
+main.main.has-sidebar-right.has-sidebar {
+
+style.css
+81: warning at line 595, col 1
+Adjoining classes: main.main.has-sidebar-right.has-sidebar
+main.main.has-sidebar-right.has-sidebar {
+
+style.css
+82: warning at line 595, col 1
+Adjoining classes: main.main.has-sidebar-right.has-sidebar
+main.main.has-sidebar-right.has-sidebar {
+
+style.css
+83: warning at line 597, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+84: warning at line 598, col 3
+width can't be used with display: inline.
+  width: 61.45833333%;
+
+style.css
+85: warning at line 601, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 8.85416667%;
+
+style.css
+86: warning at line 603, col 1
+Adjoining classes: div.sidebar.sidebar-right.has-sidebar-right
+div.sidebar.sidebar-right.has-sidebar-right {
+
+style.css
+87: warning at line 603, col 1
+Adjoining classes: div.sidebar.sidebar-right.has-sidebar-right
+div.sidebar.sidebar-right.has-sidebar-right {
+
+style.css
+88: warning at line 603, col 1
+Rule doesn't have all its properties in alphabetical order.
+div.sidebar.sidebar-right.has-sidebar-right {
+
+style.css
+89: warning at line 605, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+90: warning at line 606, col 3
+width can't be used with display: inline.
+  width: 23.95833333%;
+
+style.css
+91: warning at line 609, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 4.6875%;
+
+style.css
+92: warning at line 610, col 3
+Using height with padding-bottom can sometimes make elements larger than you expect.
+  padding-bottom: 24px;
+
+style.css
+93: warning at line 611, col 3
+height can't be used with display: inline.
+  height: 192px;
+
+style.css
+94: warning at line 616, col 1
+Adjoining classes: div.sidebar.sidebar-right.has-sidebar-right   a
+div.sidebar.sidebar-right.has-sidebar-right a {
+
+style.css
+95: warning at line 616, col 1
+Adjoining classes: div.sidebar.sidebar-right.has-sidebar-right   a
+div.sidebar.sidebar-right.has-sidebar-right a {
+
+style.css
+96: warning at line 621, col 3
+Background image '../img/horisontal-grid-24.png' was used multiple times, first declared at line 457, col 3.
+  background-image: url(../img/horisontal-grid-24.png);
+
+style.css
+97: warning at line 624, col 3
+Use of !important
+  color: black!important;
+
+style.css
+98: warning at line 627, col 3
+Use of !important
+  color: black!important;
+
+style.css
+99: warning at line 717, col 6
+Heading (h1) has already been defined.
+body h1,
+
+style.css
+100: warning at line 717, col 1
+Rule doesn't have all its properties in alphabetical order.
+body h1,
+
+style.css
+101: warning at line 717, col 6
+Heading (h1) should not be qualified.
+body h1,
+
+style.css
+102: warning at line 718, col 6
+Heading (h2) should not be qualified.
+body h2,
+
+style.css
+103: warning at line 719, col 6
+Heading (h3) should not be qualified.
+body h3,
+
+style.css
+104: warning at line 720, col 6
+Heading (h4) should not be qualified.
+body h4,
+
+style.css
+105: warning at line 721, col 6
+Heading (h5) should not be qualified.
+body h5,
+
+style.css
+106: warning at line 722, col 6
+Heading (h6) should not be qualified.
+body h6 {
+
+style.css
+107: warning at line 727, col 6
+Heading (h1) should not be qualified.
+body h1 img,
+
+style.css
+108: warning at line 728, col 6
+Heading (h2) should not be qualified.
+body h2 img,
+
+style.css
+109: warning at line 729, col 6
+Heading (h3) should not be qualified.
+body h3 img,
+
+style.css
+110: warning at line 730, col 6
+Heading (h4) should not be qualified.
+body h4 img,
+
+style.css
+111: warning at line 731, col 6
+Heading (h5) should not be qualified.
+body h5 img,
+
+style.css
+112: warning at line 732, col 6
+Heading (h6) should not be qualified.
+body h6 img {
+
+style.css
+113: warning at line 735, col 6
+Heading (h1) should not be qualified.
+body h1 {
+
+style.css
+114: warning at line 735, col 1
+Rule doesn't have all its properties in alphabetical order.
+body h1 {
+
+style.css
+115: warning at line 735, col 6
+Heading (h1) has already been defined.
+body h1 {
+
+style.css
+116: warning at line 743, col 11
+Heading (h1) should not be qualified.
+body h1 ~ h1,
+
+style.css
+117: warning at line 743, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h1,
+
+style.css
+118: warning at line 743, col 11
+Heading (h1) has already been defined.
+body h1 ~ h1,
+
+style.css
+119: warning at line 744, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h2,
+
+style.css
+120: warning at line 744, col 11
+Heading (h2) should not be qualified.
+body h1 ~ h2,
+
+style.css
+121: warning at line 744, col 11
+Heading (h2) has already been defined.
+body h1 ~ h2,
+
+style.css
+122: warning at line 745, col 11
+Heading (h3) has already been defined.
+body h1 ~ h3,
+
+style.css
+123: warning at line 745, col 11
+Heading (h3) should not be qualified.
+body h1 ~ h3,
+
+style.css
+124: warning at line 745, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h3,
+
+style.css
+125: warning at line 746, col 11
+Heading (h4) has already been defined.
+body h1 ~ h4,
+
+style.css
+126: warning at line 746, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h4,
+
+style.css
+127: warning at line 746, col 11
+Heading (h4) should not be qualified.
+body h1 ~ h4,
+
+style.css
+128: warning at line 747, col 11
+Heading (h5) has already been defined.
+body h1 ~ h5,
+
+style.css
+129: warning at line 747, col 11
+Heading (h5) should not be qualified.
+body h1 ~ h5,
+
+style.css
+130: warning at line 747, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h5,
+
+style.css
+131: warning at line 748, col 11
+Heading (h6) should not be qualified.
+body h1 ~ h6 {
+
+style.css
+132: warning at line 748, col 6
+Heading (h1) should not be qualified.
+body h1 ~ h6 {
+
+style.css
+133: warning at line 748, col 11
+Heading (h6) has already been defined.
+body h1 ~ h6 {
+
+style.css
+134: warning at line 751, col 11
+Heading (h2) has already been defined.
+body h1 + h2 {
+
+style.css
+135: warning at line 751, col 6
+Heading (h1) should not be qualified.
+body h1 + h2 {
+
+style.css
+136: warning at line 751, col 11
+Heading (h2) should not be qualified.
+body h1 + h2 {
+
+style.css
+137: warning at line 754, col 6
+Heading (h2) should not be qualified.
+body h2 {
+
+style.css
+138: warning at line 754, col 6
+Heading (h2) has already been defined.
+body h2 {
+
+style.css
+139: warning at line 754, col 1
+Rule doesn't have all its properties in alphabetical order.
+body h2 {
+
+style.css
+140: warning at line 762, col 11
+Heading (h3) has already been defined.
+body h2 + h3 {
+
+style.css
+141: warning at line 762, col 6
+Heading (h2) should not be qualified.
+body h2 + h3 {
+
+style.css
+142: warning at line 762, col 11
+Heading (h3) should not be qualified.
+body h2 + h3 {
+
+style.css
+143: warning at line 765, col 1
+Rule doesn't have all its properties in alphabetical order.
+body h3 {
+
+style.css
+144: warning at line 765, col 6
+Heading (h3) has already been defined.
+body h3 {
+
+style.css
+145: warning at line 765, col 6
+Heading (h3) should not be qualified.
+body h3 {
+
+style.css
+146: warning at line 770, col 6
+Heading (h4) should not be qualified.
+body h4 {
+
+style.css
+147: warning at line 770, col 1
+Rule doesn't have all its properties in alphabetical order.
+body h4 {
+
+style.css
+148: warning at line 770, col 6
+Heading (h4) has already been defined.
+body h4 {
+
+style.css
+149: warning at line 775, col 6
+Heading (h5) has already been defined.
+body h5 {
+
+style.css
+150: warning at line 775, col 6
+Heading (h5) should not be qualified.
+body h5 {
+
+style.css
+151: warning at line 779, col 6
+Heading (h6) has already been defined.
+body h6 {
+
+style.css
+152: warning at line 779, col 6
+Heading (h6) should not be qualified.
+body h6 {
+
+style.css
+153: warning at line 783, col 1
+Rule doesn't have all its properties in alphabetical order.
+body p {
+
+style.css
+154: warning at line 796, col 1
+Rule doesn't have all its properties in alphabetical order.
+body mark {
+
+style.css
+155: warning at line 822, col 1
+Rule doesn't have all its properties in alphabetical order.
+body blockquote {
+
+style.css
+156: warning at line 828, col 1
+Rule doesn't have all its properties in alphabetical order.
+body pre,
+
+style.css
+157: warning at line 850, col 1
+Rule doesn't have all its properties in alphabetical order.
+body pre {
+
+style.css
+158: warning at line 858, col 1
+Rule doesn't have all its properties in alphabetical order.
+body div.code,
+
+style.css
+159: warning at line 869, col 1
+Rule doesn't have all its properties in alphabetical order.
+body ul,
+
+style.css
+160: warning at line 875, col 1
+Rule doesn't have all its properties in alphabetical order.
+body ul p,
+
+style.css
+161: warning at line 892, col 1
+Rule doesn't have all its properties in alphabetical order.
+body dl {
+
+style.css
+162: warning at line 901, col 1
+Rule doesn't have all its properties in alphabetical order.
+body dl.horizontal dd {
+
+style.css
+163: warning at line 908, col 1
+Rule doesn't have all its properties in alphabetical order.
+body article table,
+
+style.css
+164: warning at line 915, col 6
+Element (table.full-width) is overqualified, just use .full-width without element name.
+body table.full-width,
+
+style.css
+165: warning at line 926, col 1
+Rule doesn't have all its properties in alphabetical order.
+body article table caption,
+
+style.css
+166: warning at line 939, col 1
+Rule doesn't have all its properties in alphabetical order.
+body article table th,
+
+style.css
+167: warning at line 959, col 1
+Rule doesn't have all its properties in alphabetical order.
+body article table tr:hover,
+
+style.css
+168: warning at line 967, col 26
+Element (tr.even) is overqualified, just use .even without element name.
+body table.striped tbody tr.even td {
+
+style.css
+169: warning at line 970, col 1
+Rule doesn't have all its properties in alphabetical order.
+body hr {
+
+style.css
+170: warning at line 979, col 1
+Rule doesn't have all its properties in alphabetical order.
+body hr:after {
+
+style.css
+171: warning at line 987, col 1
+Rule doesn't have all its properties in alphabetical order.
+.site-header {
+
+style.css
+172: warning at line 988, col 3
+Use of !important
+  margin-top: 24px !important;
+
+style.css
+173: warning at line 989, col 3
+Use of !important
+  margin-bottom: 24px !important;
+
+style.css
+174: warning at line 990, col 3
+Use of !important
+  height: 48px !important;
+
+style.css
+175: warning at line 993, col 3
+Use of !important
+  padding: 12px !important;
+
+style.css
+176: warning at line 996, col 3
+Use of !important
+  margin-bottom: 0!important;
+
+style.css
+177: warning at line 1002, col 1
+Rule doesn't have all its properties in alphabetical order.
+.site-logo-text {
+
+style.css
+178: warning at line 1004, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+179: warning at line 1005, col 3
+width can't be used with display: inline.
+  width: 11.45833333%;
+
+style.css
+180: warning at line 1008, col 3
+Duplicate property 'margin-left' found.
+  margin-left: 4.6875%;
+
+style.css
+181: warning at line 1013, col 1
+Rule doesn't have all its properties in alphabetical order.
+.navbar2 {
+
+style.css
+182: warning at line 1015, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+183: warning at line 1016, col 3
+width can't be used with display: inline.
+  width: 65.625%;
+
+style.css
+184: warning at line 1020, col 1
+Rule doesn't have all its properties in alphabetical order.
+.navbar2 li {
+
+style.css
+185: warning at line 1022, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+186: warning at line 1023, col 3
+width can't be used with display: inline.
+  width: 18.95833333%;
+
+style.css
+187: warning at line 1028, col 1
+Rule doesn't have all its properties in alphabetical order.
+.profile {
+
+style.css
+188: warning at line 1030, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+189: warning at line 1031, col 3
+width can't be used with display: inline.
+  width: 15.625%;
+
+style.css
+190: warning at line 1035, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-small ul {
+
+style.css
+191: warning at line 1037, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+192: warning at line 1038, col 3
+width can't be used with display: inline.
+  width: 3.125%;
+
+style.css
+193: warning at line 1045, col 1
+Rule doesn't have all its properties in alphabetical order.
+.breadcrumb-list {
+
+style.css
+194: warning at line 1047, col 3
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+  float: left;
+
+style.css
+195: warning at line 1048, col 3
+width can't be used with display: inline.
+  width: 98.95833333%;
+
+style.css
+196: warning at line 1051, col 3
+margin-bottom can't be used with display: inline.
+  margin-bottom: 22px;
+
+style.css
+197: warning at line 1053, col 1
+Rule doesn't have all its properties in alphabetical order.
+.breadcrumb-list ul {
+
+style.css
+198: warning at line 1118, col 1
+Outlines should only be modified using :focus.
+a.rm-button {
+
+style.css
+199: warning at line 1118, col 1
+Rule doesn't have all its properties in alphabetical order.
+a.rm-button {
+
+style.css
+200: warning at line 1124, col 1
+Rule doesn't have all its properties in alphabetical order.
+a.rm-button:active {
+
+style.css
+201: warning at line 1132, col 1
+Rule doesn't have all its properties in alphabetical order.
+a.rm-button .rm-button-face-2 {
+
+style.css
+202: warning at line 1137, col 1
+Rule doesn't have all its properties in alphabetical order.
+a.rm-button.rm-clicked {
+
+style.css
+203: warning at line 1137, col 1
+Adjoining classes: a.rm-button.rm-clicked
+a.rm-button.rm-clicked {
+
+style.css
+204: warning at line 1141, col 1
+Adjoining classes: a.rm-button.rm-clicked   .rm-button-face-1
+a.rm-button.rm-clicked .rm-button-face-1 {
+
+style.css
+205: warning at line 1144, col 1
+Rule doesn't have all its properties in alphabetical order.
+a.rm-button.rm-clicked .rm-button-face-2 {
+
+style.css
+206: warning at line 1144, col 1
+Adjoining classes: a.rm-button.rm-clicked   .rm-button-face-2
+a.rm-button.rm-clicked .rm-button-face-2 {
+
+style.css
+207: warning at line 1158, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-default a {
+
+style.css
+208: warning at line 1158, col 1
+Outlines should only be modified using :focus.
+.rm-default a {
+
+style.css
+209: warning at line 1165, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-default ul {
+
+style.css
+210: warning at line 1170, col 13
+Element (ul.rm-show-submenu) is overqualified, just use .rm-show-submenu without element name.
+.rm-default ul.rm-show-submenu {
+
+style.css
+211: warning at line 1174, col 19
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
+
+style.css
+212: warning at line 1174, col 15
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
+
+style.css
+213: warning at line 1189, col 13
+Element (li.current-menu-item) is overqualified, just use .current-menu-item without element name.
+.rm-desktop li.current-menu-item a {
+
+style.css
+214: warning at line 1192, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-desktop li a {
+
+style.css
+215: warning at line 1196, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-desktop li a:hover {
+
+style.css
+216: warning at line 1203, col 24
+Element (ul.rm-submenu-level-1) is overqualified, just use .rm-submenu-level-1 without element name.
+.rm-desktop li:hover > ul.rm-submenu-level-1 {
+
+style.css
+217: warning at line 1213, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-mobile {
+
+style.css
+218: warning at line 1215, col 19
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4);
+
+style.css
+219: warning at line 1215, col 15
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4);
+
+style.css
+220: warning at line 1222, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-mobile li {
+
+style.css
+221: warning at line 1224, col 19
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(255, 255, 255, 0.4);
+
+style.css
+222: warning at line 1224, col 15
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(255, 255, 255, 0.4);
+
+style.css
+223: warning at line 1237, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-mobile li.rm-submenu-open > ul {
+
+style.css
+224: warning at line 1245, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max.rm-navbar {
+
+style.css
+225: warning at line 1245, col 1
+Adjoining classes: .rm-max.rm-navbar
+.rm-max.rm-navbar {
+
+style.css
+226: warning at line 1253, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max .rm-small .rm-button {
+
+style.css
+227: warning at line 1257, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max .rm-small .rm-button.rm-clicked {
+
+style.css
+228: warning at line 1257, col 19
+Adjoining classes: .rm-max   .rm-small   .rm-button.rm-clicked
+.rm-max .rm-small .rm-button.rm-clicked {
+
+style.css
+229: warning at line 1264, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max .rm-mobile {
+
+style.css
+230: warning at line 1274, col 3
+Using height with padding-top can sometimes make elements larger than you expect.
+  padding-top: 72px;
+
+style.css
+231: warning at line 1283, col 9
+Adjoining classes: .rm-max   .rm-mobile.rm-clicked
+.rm-max .rm-mobile.rm-clicked {
+
+style.css
+232: warning at line 1289, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max .rm-mobile .rm-submenu-button {
+
+style.css
+233: warning at line 1292, col 15
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(255, 255, 255, 0.4);
+
+style.css
+234: warning at line 1292, col 19
+Values of 0 shouldn't have units specified.
+  box-shadow: 0px 0px 1px rgba(255, 255, 255, 0.4);
+
+style.css
+235: warning at line 1304, col 1
+Rule doesn't have all its properties in alphabetical order.
+.rm-max .rm-mobile .rm-submenu-button:hover {
+
+style.css
+236: warning at line 1314, col 1
+Adjoining classes: .rm-max.rm-swipe-left   .rm-mobile
+.rm-max.rm-swipe-left .rm-mobile {
+
+style.css
+237: warning at line 1317, col 1
+Adjoining classes: .rm-max.rm-swipe-right   .rm-mobile
+.rm-max.rm-swipe-right .rm-mobile {
+
+style.css
+238: warning at line 1323, col 1
+Rule doesn't have all its properties in alphabetical order.
+.me {
+
+style.css
+239: warning at line 1326, col 3
+Using width with border can sometimes make elements larger than you expect.
+  border: 5px solid black;
+
+style.css
+240: warning at line 1341, col 1
+Rule doesn't have all its properties in alphabetical order.
+.me-small {
+
+style.css
+241: warning at line 1347, col 1
+Rule doesn't have all its properties in alphabetical order.
+.byline {
+
+style.css
+242: warning at line 1350, col 3
+Using width with border can sometimes make elements larger than you expect.
+  border: 5px solid black;
+
+style.css
+243: warning at line 1363, col 1
+Rule doesn't have all its properties in alphabetical order.
+.outer-wrap-footer {
+
+style.css
+244: warning at line 1367, col 3
+Expected ([ <generic-family> | <family-name> ]#) but found '66.67333333% Frutiger , "Frutiger Linotype" , Univers , Calibri , "Gill Sans" , "Gill Sans MT" , "Myriad Pro" , Myriad , "DejaVu Sans Condensed" , "Liberation Sans" , "Nimbus Sans L" , Tahoma , Geneva , "Helvetica Neue" , Helvetica , Arial , sans-serif'.
+  font-family: 66.67333333% Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+style.css
+245: warning at line 1387, col 1
+Rule doesn't have all its properties in alphabetical order.
+.footer-column-wrapper {
+
+style.css
+246: warning at line 1403, col 1
+Outlines should only be modified using :focus.
+a:active,
+
+style.css
+247: warning at line 1420, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .sidebar {
+
+style.css
+248: warning at line 1421, col 5
+Use of !important
+    display: inline !important;
+
+style.css
+249: warning at line 1422, col 5
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+    float: left !important;
+
+style.css
+250: warning at line 1422, col 5
+Use of !important
+    float: left !important;
+
+style.css
+251: warning at line 1423, col 5
+width can't be used with display: inline.
+    width: 90.625% !important;
+
+style.css
+252: warning at line 1423, col 5
+Use of !important
+    width: 90.625% !important;
+
+style.css
+253: warning at line 1424, col 5
+Use of !important
+    margin-left: 0.52083333% !important;
+
+style.css
+254: warning at line 1425, col 5
+Use of !important
+    margin-right: 0.52083333% !important;
+
+style.css
+255: warning at line 1426, col 5
+Duplicate property 'margin-left' found.
+    margin-left: 4.6875% !important;
+
+style.css
+256: warning at line 1426, col 5
+Use of !important
+    margin-left: 4.6875% !important;
+
+style.css
+257: warning at line 1434, col 3
+Adjoining classes: main.main.has-sidebar
+  main.main.has-sidebar {
+
+style.css
+258: warning at line 1434, col 3
+Rule doesn't have all its properties in alphabetical order.
+  main.main.has-sidebar {
+
+style.css
+259: warning at line 1435, col 5
+Use of !important
+    display: inline !important;
+
+style.css
+260: warning at line 1436, col 5
+Use of !important
+    float: left !important;
+
+style.css
+261: warning at line 1436, col 5
+display:inline has no effect on floated elements (but may be used to fix the IE6 double-margin bug).
+    float: left !important;
+
+style.css
+262: warning at line 1437, col 5
+Use of !important
+    width: 90.625% !important;
+
+style.css
+263: warning at line 1437, col 5
+width can't be used with display: inline.
+    width: 90.625% !important;
+
+style.css
+264: warning at line 1438, col 5
+Use of !important
+    margin-left: 0.52083333% !important;
+
+style.css
+265: warning at line 1439, col 5
+Use of !important
+    margin-right: 0.52083333% !important;
+
+style.css
+266: warning at line 1440, col 5
+Duplicate property 'margin-left' found.
+    margin-left: 4.6875% !important;
+
+style.css
+267: warning at line 1440, col 5
+Use of !important
+    margin-left: 4.6875% !important;
+
+style.css
+268: warning at line 1444, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .footer-column {
+
+style.css
+269: warning at line 1465, col 1
+Rule doesn't have all its properties in alphabetical order.
+.logo-1 {
+
+style.css
+270: warning at line 1488, col 1
+Rule doesn't have all its properties in alphabetical order.
+body {
+
+style.css
+271: warning at line 1499, col 3
+Unknown property 'font-language-override'.
+  font-language-override: normal;
+
+style.css
+272: warning
+You have 4 h1s, 4 h2s, 4 h3s, 3 h4s, 3 h5s, 3 h6s defined in this stylesheet.
+
+style.css
+273: warning
+Too many !important declarations (20), try to use less than 10 to avoid specificity issues.
+
+style.css
+274: warning
+Too many floats (23), you're probably using them for layout. Consider using a grid system instead.
+
+style.css
+275: warning
+Too many font-size declarations (19), abstraction needed.

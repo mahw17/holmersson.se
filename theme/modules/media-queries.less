@@ -1,0 +1,161 @@
+/** --------------------------------------------------------------
+ *  Responsive design
+ */
+img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 1500px) {
+    .site-header {
+        .column(24);
+        .push(0);
+    }
+}
+
+@media screen and (max-width: 960px) {
+
+    /*PROJECTS*/
+    body[class^="route-theme"] {
+
+        .outer-wrap-flash {
+            height: 23em!important;
+        }
+
+    	main {
+    		margin-top: 108px!important;
+    	}
+
+        .sidebar {
+            margin-top: 108px!important;
+        }
+    }
+
+    /*TOOLBOX*/
+    body[class^="route-toolbox"] {
+
+    	.outer-wrap-flash {
+    		background-image: url("/../../img/dynapac/SCC-Roller_800_311_85.jpg")!important;
+            height: 23em;
+    	}
+
+    	.outer-wrap-breadcrumb {
+    		margin-top: 120px!important;
+    	}
+    }
+
+    /*About*/
+    body[class^="route-about"] {
+
+        .outer-wrap-flash {
+            height: 23em!important;
+        }
+
+    	main {
+    		margin-top: 200px!important;
+    	}
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .sidebar {
+        .column(22)!important;
+        .push(1)!important;
+    }
+
+    .navbar2 {
+        display: none;
+    }
+
+    .me {
+        margin-bottom: 0;
+    }
+
+    .profile {
+        display: inline-block;//.column(0);
+    }
+
+    main.main.has-sidebar {
+        .column(22)!important;
+        .push(1)!important;
+    }
+
+    body[class^="route-theme"] {
+    	main {
+    		margin-top: 50px!important;
+    	}
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .inner-home-product-box {
+
+        h3 {
+            margin-top: 6px;
+            margin-bottom: 6px;
+        }
+
+        p {
+            margin-top: 6px;
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .slider-text {
+        h2 {
+            font-size: 1.5em!important;
+        }
+    }
+
+    .home-product-box {
+        width: 50%!important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    /*TOOLBOX*/
+    body[class^="route-toolbox"] {
+
+        .outer-wrap-flash {
+            background-image: url("/../../img/dynapac/SCC-Roller_640_249_85.jpg")!important;
+            height: 15em;
+        }
+
+        .outer-wrap-breadcrumb {
+            margin-top: 80px!important;
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .footer-column {
+        width: 100%;
+    }
+
+    .footer-column-1 {
+        text-align: center!important;
+    }
+
+    .footer-column-3 {
+        text-align: center!important;
+    }
+}
+
+
+ @media screen and (max-width: 400px) {
+     .site-logo-text img {
+         height: 75px;
+     }
+
+     .site-header {
+         height: 75px;
+     }
+}
+
+@media screen and (max-width: 340px) {
+    .inner-home-product-box {
+        h3 {
+            font-size: 1.1em;
+        }
+    }
+}

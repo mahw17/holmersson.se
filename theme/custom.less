@@ -1,0 +1,493 @@
+/**
+* Anax Flat theme.
+*/
+@import url(base.less);
+
+// Footer
+@import url(footer.less);
+
+
+/* Main navbar */
+@navbarItemBgColor:         #B11116;
+@navbarItemColor:           #fff;
+
+@navbarItemHoverBgColor:    #B11116;
+@navbarItemHoverColor:      #efd0d2;
+
+// Menu item current/selected
+@navbarItemSelectedBorderColor: #fff;
+
+// The menu button
+@navbarMenuButtonColor:         #515050;//inherit;
+
+// The menu button clicked
+@navbarMenuButtonClickedColor:          #B11116;//#9FB129;
+
+// Max menu
+@maxBgColor:                #515050;//#131313;
+@maxButtonColor:            #515050;//inherit;
+
+// Mobile menu
+@mobileColor:       #B11116;
+
+// Max menu
+// @maxBgColor:                @color-secondary-1-1;//#131313;
+// @mobileColor:               @color-secondary-1-3;
+
+.site-header {
+	background: #B11116;
+}
+
+/* GRID-sida */
+@sidemenuColor:             grey;//@color-primary-3;
+@sidemenuBgColor:           grey;//@color-secondary-1-3;
+
+/* Footer */
+@footerBackground:          grey;//@color-secondary-2-1;
+@footerColor:               grey;//@color-secondary-1-3;
+
+html {
+	background-color: #F9F9F9;
+}
+
+main {
+    padding-top: 170px;
+    .column(22);
+    .push(1);
+}
+
+// .byline, .me, .imgAbout {
+//     border: 5px solid grey;
+//     border-radius: 5px;
+// }
+
+.outer-wrap-flash {
+    background-image: url("/../../img/dynapac/CA-Roller_1280_497_85.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    width: 100%;
+    height: 33em;
+    z-index: -1;
+}
+
+
+
+.inner-wrap-flash {
+    visibility: hidden;
+}
+
+.outer-wrap-footer {
+    a {
+        color: grey;
+    }
+}
+
+.outer-wrap-breadcrumb, .outer-wrap-main {
+    a {
+        color: grey;
+    }
+}
+
+
+
+//----------------------------------------------------------------//
+//----------------------------------------------------------------//
+
+/*Index.md*/
+
+.slider-text {
+    height: 100%;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 83px;
+    padding: 1em 2em 3.1em;
+    background: rgba(24,24,24,0.6);
+    color: #fff;
+    line-height: 1.4;
+    font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    text-decoration: none;
+
+
+    h2 {
+        font-size: 2em;
+        margin-bottom: 0;
+        margin-top: 0.2rem;
+        font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+        border-bottom: none;
+    }
+
+    h4 {
+        font-size: 1.125em;
+        margin-bottom: 0;
+        margin-top: 0;
+        font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+    }
+
+    h6 {
+        font-size: 0.875em;
+        margin-bottom: 0;
+        margin-top: 0;
+        font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+    }
+}
+
+.home-product-container {
+    margin-top: -60px;
+    z-index: 3;
+    position: relative;
+    max-width: 75rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    padding: 0;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    cursor: auto;
+    font-family: 'Calibri', 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 1em;
+
+
+}
+
+.home-product-box {
+    margin-bottom: 25px;
+    transition: .3s ease-out;
+    width: 25%;
+    position: relative;
+    background: transparent;
+    float: left;
+
+	& a {
+		color: black;
+		text-decoration: none;
+	}
+}
+
+.inner-home-product-box {
+    height: 300px;
+    background-color: #fff;
+    padding-bottom: 10px;
+    transition: .3s ease-out;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    margin: 0.5em;
+    padding: 1em;
+    text-align: center;
+    box-sizing: border-box;
+
+    &:hover {
+        background-color: #B11116;
+        color: #fff;
+    }
+}
+
+.home-product-box-img {
+	height: 115px;
+}
+
+.home-startinfo-container {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 100%;
+    float: left;
+    padding: 0;
+    font-family: 'Calibri', 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #fff;
+    transition: .3s ease-out;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+}
+
+.home-startinfo-box {
+    padding: 1em;
+
+	h1 {
+		font-size: 1.875em;
+		color: #515050;
+		line-height: 1.2;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+		letter-spacing: 0.01em;
+		font-style: normal;
+		text-rendering: optimizeLegibility;
+		margin-top: 0.2rem;
+		margin-bottom: 0.5rem;
+		padding: 0;
+		border: none;
+	}
+
+    h4 {
+        font-size: 1.125em;
+        margin-bottom: 0;
+        margin-top: 0;
+        font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+    }
+}
+
+//----------------------------------------------------------------//
+//----------------------------------------------------------------//
+
+/*THEMES*/
+
+body[class^="route-theme"] {
+
+	.outer-wrap-flash {
+		background-image: url("/../../img/dynapac/Asphalt_1280_497_85.jpg");
+	}
+
+	main {
+		margin-top: 260px;
+		background-color: #fff;
+		min-height: 500px;
+		float: left;
+		padding: 1em;
+		font-family: 'Calibri', 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 1em;
+		background-color: #fff;
+		transition: .3s ease-out;
+		box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+		box-sizing: border-box;
+	}
+
+	.sidebar {
+		margin-top: 260px;
+		padding-top: 0;
+		background-color: #fff;
+		min-height: 250px;
+		padding: 0;
+	}
+
+	.outer-wrap-footer {
+		margin-top: 50px;
+	}
+
+	.toc {
+		padding: 1em!important;
+		background-color: #B11116;
+		color: #fff;
+
+		a {
+			color: #fff;
+			text-decoration: none;
+
+			&:hover {
+				color: @navbarItemHoverColor;
+				text-decoration: underline;
+			}
+		}
+
+		h4 {
+			color: #fff;
+			text-align: left;
+		}
+	}
+
+	.outer-wrap-breadcrumb {
+	    visibility: hidden;
+		min-height: 100px;
+	}
+
+	h1, h4 {
+		color: #515050;
+		line-height: 1.2;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+		letter-spacing: 0.01em;
+		font-style: normal;
+		text-rendering: optimizeLegibility;
+		margin-top: 0.2rem;
+		margin-bottom: 0.5rem;
+		padding: 0;
+		border: none;
+	}
+
+	h1 {
+		font-size: 1.875em;
+
+	}
+
+	h4 {
+		font-size: 1.375em;
+		// color: #fff;
+	}
+
+}
+
+//----------------------------------------------------------------//
+//----------------------------------------------------------------//
+
+/*TOOLBOX*/
+
+body[class^="route-toolbox"] {
+
+	.outer-wrap-flash {
+		background-image: url("/../../img/dynapac/SCC-Roller_1280_497_85.jpg");
+	}
+
+	main {
+		margin-top: 0;
+		background-color: #fff;
+		min-height: 500px;
+		float: left;
+		padding: 1em;
+		font-family: 'Calibri', 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 1em;
+		background-color: #fff;
+		transition: .3s ease-out;
+		box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+		box-sizing: border-box;
+	}
+
+	.outer-wrap-breadcrumb {
+	 	min-height: 100px;
+		margin-top: 260px;
+	}
+
+	.breadcrumb-list {
+		ul {
+			color: #B11116;
+
+			a {
+				color: #B11116;
+				font-size: 1.05em;
+				text-decoration: none;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+
+	.sidebar {
+		margin-top: 0;
+		padding-top: 0;
+		background-color: #B11116!important;
+		color: #fff;
+		min-height: 250px;
+		padding: 0;
+	}
+
+	.outer-wrap-footer {
+		margin-top: 50px;
+	}
+
+	.block {
+		padding: 1em;
+	}
+
+	.blog-toc, .toc {
+		//padding: 1em!important;
+		background-color: #B11116;
+		color: #fff!important;
+		text-align: left;
+
+		a {
+			color: #fff!important;
+			text-decoration: none;
+
+			&:hover {
+				color: @navbarItemHoverColor!important;
+				text-decoration: underline;
+			}
+		}
+
+		h4 {
+			color: #fff;
+		}
+	}
+
+	h1, h4 {
+		line-height: 1.2;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+		letter-spacing: 0.01em;
+		font-style: normal;
+		text-rendering: optimizeLegibility;
+		margin-top: 0.2rem;
+		margin-bottom: 0.5rem;
+		padding: 0;
+		border: none;
+	}
+
+	h1 {
+		color: #515050;
+		font-size: 1.875em;
+	}
+
+	h4 {
+		color: #fff;
+		font-size: 1.375em;
+	}
+
+	.blog-list-item {
+		padding-top: 35px;
+		padding-bottom: 20px;
+		border-top: 3px solid #B11116;
+	}
+
+}
+
+//----------------------------------------------------------------//
+//----------------------------------------------------------------//
+
+/*About*/
+
+body[class^="route-about"] {
+
+	.outer-wrap-flash {
+		background-image: url("/../../img/dynapac/About_1280_497_85.jpg");
+	}
+
+	main {
+		margin-top: 352px;
+		background-color: #fff;
+		min-height: 500px;
+		float: left;
+		padding: 1em;
+		font-family: 'Calibri', 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 1em;
+		background-color: #fff;
+		transition: .3s ease-out;
+		box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+		box-sizing: border-box;
+	}
+
+	.outer-wrap-footer {
+		margin-top: 50px;
+	}
+
+	.outer-wrap-breadcrumb {
+	    visibility: hidden;
+	}
+
+	h1 {
+		font-size: 1.875em;
+		color: #515050;
+		line-height: 1.2;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+		letter-spacing: 0.01em;
+		font-style: normal;
+		text-rendering: optimizeLegibility;
+		margin-top: 0.2rem;
+		margin-bottom: 0.5rem;
+		padding: 0;
+		border: none;
+	}
+}

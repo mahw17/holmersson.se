@@ -1,0 +1,49 @@
+/**
+ * Gridbased layout
+ */
+
+@columnWidth:   30;
+@gutterWidth:   10;
+@columns:       24;
+
+@bottomMargin: 10px;
+@gridWidth: 1100px;
+@gridImage: "../img/grid950x24x30x10-nomargin.png";
+//@gridImage: "../img/grid940x12x60x20-nomargin.png";
+
+.inner-wrap {
+    .grid(@gridWidth);
+
+    html.vgrid & {
+        .showGrid(@gridWidth, @gridImage);
+    }
+    html.hgrid & {
+        //.showGrid(@gridWidth, @gridImage);
+        background-image: url(../img/horisontal-grid-24.png);
+    }
+
+    &.inner-wrap-header {
+        @gridWidth: 100%;
+        .grid(@gridWidth);
+        html.vgrid & {
+            .showGrid(@gridWidth, @gridImage);
+        }
+    }
+}
+
+
+.row {
+    .row();
+    margin-bottom: @bottomMargin;
+}
+
+
+.sidebar {
+    .column(6);
+}
+
+
+//Set minimum height on main content so that the byline gets on a good position
+.outer-wrap-main {
+    min-height: 20em;
+}
