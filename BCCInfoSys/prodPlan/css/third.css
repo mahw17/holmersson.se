@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import "style.css";
+
+html {
+    background-image: url("../img/colorful-background1.jpg");
+    color: whitesmoke;
+}
+
+body {
+
+    background-image: url("../img/colorful-background2.jpg");
+}
+
+main {
+    font-family: 'Indie Flower';
+}
+
+.site-header {
+    background-image: url("../img/colorful-background3.jpg");
+}
+
+.sidebar {
+    background-image: url("../img/texture.jpg");
+}
+
+.byline {
+    background-color: whitesmoke;
+    color: black;
+    padding-right: 5px;
+}

@@ -1,0 +1,109 @@
+/** --------------------------------------------------------------
+ *  Responsive design
+ */
+
+@media screen and (max-width: 1600px) {
+/*MAIN*/
+    main {
+        height: 700px!important;
+    }
+
+    h3 {
+        font-size: 24px!important;
+    }
+    h4 {
+        font-size: 18px!important;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+/*MAIN*/
+    main {
+        height: 700px!important;
+    }
+
+    h3 {
+        font-size: 20px!important;
+    }
+    h4 {
+        font-size: 14px!important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+/*MAIN*/
+    main {
+        height: 680px!important;
+    }
+
+    h3 {
+        font-size: 16px!important;
+    }
+    h4 {
+        font-size: 10px!important;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+/*MAIN*/
+    main {
+        height: 680px!important;
+    }
+
+    h3 {
+        font-size: 12px!important;
+    }
+    h4 {
+        font-size: 8px!important;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    /*FOOTER 2/3 of max */
+    h2 {
+        font-size: 2em!important;
+    }
+
+    .footer-column {
+        height: 66px!important;
+    }
+
+    .footer-column-1 {
+        padding-left: 2em!important;
+    }
+
+    .footer-column-2 {
+        padding-right: 1em!important;
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+    h2 {
+        font-size: 1em!important;
+    }
+
+    .footer-column {
+        height: 33px!important;
+    }
+
+    .footer-column-1 {
+        padding-left: 1em!important;
+    }
+
+    .footer-column-2 {
+        padding-right: 0.5em!important;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    .footer-column {
+        width: 100%!important;
+        text-align: center;
+    }
+
+    .dynapac-logo-large {
+        float: none!important;
+    }
+}

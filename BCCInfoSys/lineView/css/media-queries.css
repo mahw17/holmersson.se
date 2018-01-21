@@ -1,0 +1,173 @@
+/** --------------------------------------------------------------
+ *  Responsive design
+ */
+
+ @media screen and (max-width: 1700px) {
+     /*AFTER-MAIN*/
+
+     .after-main-column-1 h2 {
+         font-size: 2.5em!important;
+     }
+ }
+
+
+@media screen and (max-width: 1500px) {
+/*MAIN*/
+    main {
+        height: 500px!important;
+    }
+    h3 {
+        font-size: 1.25em!important;
+    }
+    h4 {
+        font-size: 1em!important;
+    }
+    .station {
+        height: 100px!important;
+    }
+    .itds {
+        height: 35px!important;
+    }
+    .fuds {
+        height: 80px!important;
+    }
+}
+
+@media screen and (max-width: 1290px) {
+    /*MAIN*/
+    main {
+        height: 450px!important;
+    }
+
+    h1 {
+        font-size: 3em!important;
+    }
+
+    h2 {
+        font-size: 2em!important;
+    }
+
+    .after-main-column-1 h2 {
+        font-size: 2em!important;
+    }
+
+    h3 {
+        font-size: 1em!important;
+    }
+    .station {
+        height: 80px!important;
+    }
+    .fuds {
+        height: 60px!important;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    /*FOOTER 2/3 of max */
+    .footer h2 {
+        font-size: 2em!important;
+    }
+
+    .footer-column {
+        height: 66px!important;
+    }
+
+    .footer-column-1 {
+        padding-left: 2em!important;
+    }
+
+    .footer-column-2 {
+        padding-right: 1em!important;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    /*MAIN*/
+    main {
+        height: 700px!important;
+    }
+    .column-outer {
+        width: 33.33%!important;
+        height: 50%!important;
+    }
+    .column-inner {
+        height: 100%!important;
+    }
+    .kit-itds, .kit-fuds {
+        display: none!important;
+    }
+    .after-main-column-1 {
+        width: 100%!important;
+    }
+
+    .after-main-column-2 {
+        display: none!important;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    /*AFTER-MAIN*/
+
+    .after-main-column {
+        width: 50%!important;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .after-main-column-1 h2 {
+        font-size: 1.25em!important;
+    }
+    .footer h2 {
+        font-size: 1em!important;
+    }
+
+    .footer-column {
+        height: 33px!important;
+    }
+
+    .footer-column-1 {
+        padding-left: 1em!important;
+    }
+
+    .footer-column-2 {
+        padding-right: 0.5em!important;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    /*MAIN*/
+    main {
+        height: 1350px!important;
+    }
+    .column-outer {
+        width: 50%!important;
+        height: 33.33%!important;
+    }
+    .inner-wrap-after-main {
+        height: 100px!important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    /*MAIN*/
+    main {
+        height: 2700px!important;
+    }
+    .column-outer {
+        width: 100%!important;
+        height: 16.666%!important;
+    }
+
+    .footer-column {
+        width: 100%!important;
+        text-align: center!important;
+    }
+
+    .footer h2 {
+        text-align: center!important;
+    }
+
+    .dynapac-logo-large {
+        float: none!important;
+    }
+}

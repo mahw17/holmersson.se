@@ -1,0 +1,226 @@
+@import "media-queries.css";
+
+/*COMMON*/
+
+html {
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin: 0;
+    /* margin-top: 0.2rem;
+    margin-bottom: 0.5rem; */
+    line-height: 1.4;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 4em;
+    text-decoration: underline;
+    color: #fff;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+    color: black;
+}
+
+.wrap-all {
+    background: black;/*#f9f9f9;*/
+}
+
+/*MAIN*/
+
+.outer-wrap-main {
+    /* padding: 1em; */
+    /* margin-bottom: 10px; */
+}
+
+.inner-wrap-main {
+    width: 100%;
+}
+
+main {
+    height: 600px;
+}
+
+.column-outer {
+    width: 16.66%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 0.5em;
+    float: left;
+}
+
+.column-inner {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 4px solid #B11116;
+    padding: 0.5em;
+    /* float: left; */
+}
+
+.cell-outer {
+    width: 100%;
+    height: 6%;
+    box-sizing: border-box;
+    padding: 0.125em;
+}
+
+.station {
+    height: 17.5%;
+}
+
+.mfno {
+    height: 12.5%;
+}
+
+.itds {
+    height: 5%;
+}
+
+.fuds {
+    height: 17.5%;
+}
+
+.start-button {
+    margin-top: 60px;
+}
+
+.not-started {
+    background: #fff;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.started {
+    background: yellow;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.finished {
+    background: green;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.stopped {
+    background: red;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.cell-inner {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+
+/*AFTER-MAIN*/
+
+.outer-wrap-after-main {
+    padding: 1em;
+    margin-bottom: 20px;
+}
+
+.inner-wrap-after-main {
+    width: 100%;
+    height: 150px;
+}
+
+.after-main-column {
+    width: 16.66%;
+    box-sizing: border-box;
+    padding-right: 1em;
+    padding-left: 1em;
+    float: left;
+}
+
+.after-main-column h3 {
+    color: #fff;
+}
+
+fieldset {
+    border-color: #fff;
+    background-color: #515050;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+}
+/*FOOTER*/
+
+.footer h2 {
+    margin-top: 2%;
+    font-size: 3em;
+    text-align: left;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer-column {
+    height: 100px;
+    width: 50%;
+    float: left;
+    background-color: #B11116;
+
+    color: #fff;
+}
+
+.footer-column-x {
+    height: inherit;
+}
+
+.footer-column-1 {
+    padding-left: 4em;
+}
+
+.footer-column-2 {
+    padding-right: 2em;
+}
+
+.dynapac-logo-large {
+    height: 70%;
+    margin-top: 2%;
+    float: right;
+}
+
+.site-footer {
+    display: none;
+}

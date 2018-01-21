@@ -1,0 +1,49 @@
+@import "style.css";
+
+
+.site-header {
+    background-color: limegreen;
+}
+
+.site-title {
+    color: black;
+}
+
+.site-slogan {
+    color: black;
+}
+
+.byline {
+    background-color: limegreen;
+    color: black;
+    border: 5px solid limegreen;
+}
+
+body,
+main,
+aside {
+    background-color: black;
+    color: limegreen;
+}
+
+a:link {
+    color: limegreen;
+}
+
+a:visited {
+    color: lightgreen;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+a:active {
+    color: pink;
+}
+
+.navbar .selected {
+    background-color: limegreen;
+    color: black;
+    border-color: limegreen;
+}

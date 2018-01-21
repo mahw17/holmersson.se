@@ -1,0 +1,222 @@
+@import "table.css";
+
+html {
+    background-color: #FFF;
+    overflow-y: scroll;
+}
+
+body {
+    margin: 8px auto;
+    margin-bottom: 200px;
+    padding: 8px;
+    padding-bottom: 400px;
+    width: 980px;
+    background-color: #eee;
+    border-radius: 10px;
+    min-height: 10em;
+    position: relative;
+}
+
+.author {
+    font-style: italic;
+}
+
+.me {
+    width: 400px;
+    float: right;
+    border: 5px solid black;
+    border-width: medium;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+/* HEADER */
+
+.rock-sign {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.navbar {
+    padding: 1em;
+    border-top: 0 solid #9c9;
+}
+
+.navbar a {
+    display: inline-block;
+    padding: 0.5em 1em;
+    border: 1px solid #999;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+.navbar .selected {
+    background-color: #008B8B
+}
+
+.navbar a:hover {
+    background-color: #eee;
+    text-decoration: underline;
+    color: black;
+}
+
+.site-header {
+    background-color: #85144B;
+    overflow: auto; /* clear fix to make div span all elements */
+    border-radius: 10px;
+}
+
+.site-header img {
+    float: right;
+    width: 80px;
+}
+
+.site-title {
+    display: block;
+    padding-top: 12px;
+    padding-left: 0;
+    font-size: 42px;
+    color: #FFF;
+    overflow: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.site-slogan {
+    display: block;
+    padding-left: 0;
+    font-style: italic;
+    font-size: 22px;
+    color: #FFF;
+    overflow: auto;
+    text-align: center;
+}
+
+.stylechooser {
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+/*SIDEBAR stylechooser*/
+
+.sidebar {
+    width: 35%;
+    float: right;
+    margin: 20px;
+    border: 5px solid black;
+    padding: 5px;
+
+}
+
+/* BYLINE */
+
+.byline-txt {
+    margin-top: 11px;
+}
+
+.me-small {
+    width: 100px;
+    float: left;
+    margin: 10px;
+    margin-top: 0;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.byline {
+    background-color: white;
+    width: 450px;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    overflow: auto;
+    box-shadow: 3px 3px 5px black;
+    position: absolute;
+    bottom: 155px;
+}
+
+/**
+ * Footer
+ */
+
+
+.site-footer {
+    position: absolute;
+    bottom: 20px;
+    width: inherit;
+    }
+
+/**
+ * Links
+ */
+
+ .wrapper{
+   margin:1em 0;
+ }
+ a,a:visited,a:hover,a:active{
+ 	position:relative;
+ }
+ a:hover{
+ 	color:#d73444;
+ }
+ a.before:before,a.after:after{
+   content: "";
+   transition:0.5s all ease;
+   -webkit-backface-visibility:hidden;
+           backface-visibility:hidden;
+   position:absolute;
+ }
+ a.before:before{
+   top:-0.25em;
+ }
+ a.after:after{
+   bottom:-0.25em;
+ }
+ a.before:before,a.after:after{
+   height:5px;
+   height:0.35rem;
+   width:0;
+   background:#d73444;
+ }
+ a.eigth:before{
+   left:0;
+ }
+ a.eigth:after{
+   right:0;
+ }
+ a.before:hover:before,a.after:hover:after{
+   width:100%;
+ }
+
+/**
+ * Remove spin-button in form field numbers
+ */
+ input[type='number'] {
+     -moz-appearance: textfield;
+     -webkit-appearance: textfield;
+ }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    margin: 0;
+}
+
+
+/**
+ * responsive
+ */
+@media (max-width: 980px) {
+    body {
+        width: auto;
+        background-color: yellow;
+    }
+}

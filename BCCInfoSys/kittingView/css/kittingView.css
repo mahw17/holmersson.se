@@ -1,0 +1,184 @@
+@import "media-queries.css";
+
+/*COMMON*/
+
+html {
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Calibri","Open Sans","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.wrap-all {
+    background: black;/*#f9f9f9;*/
+}
+
+/*MAIN*/
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+h4 {
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.outer-wrap-main {
+    padding: 1em;
+    margin-bottom: 20px;
+}
+
+.inner-wrap-main {
+    width: 100%;
+    /* background-color: pink; */
+}
+
+main {
+    height: 800px;
+}
+
+.row {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    height: 7.14285%;
+}
+
+.col {
+    box-sizing: border-box;
+    width: 7.692%;
+    float: left;
+    height: 100%;
+    border-bottom: 3px solid black;
+    padding: 2px;
+}
+
+.col-description {
+    width: 15.384%;
+    border: none;
+}
+
+.col-tact-info {
+    width: 46.153%;
+    border: none;
+}
+
+.started {
+    background-color: green;
+    color: #fff;
+    border-color: green;
+
+}
+.col-remove {
+    display: none;
+}
+
+.cell {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    border: 3px solid transparent;
+    border-radius: 3px;
+    background-color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.col-bottom {
+    border-color: black;
+}
+
+.started {
+    background-color: yellow;
+    color: black;
+    border-color: yellow;
+}
+
+.finished {
+    background-color: green;
+    color: black;
+    border-color: green;
+}
+
+.stopped {
+    background-color: red;
+    color: black;
+    border-color: red;
+}
+.blank {
+    visibility: hidden;
+}
+
+.col-info {
+    border-color: black;
+}
+
+.cell-info {
+    background-color: #515050;
+    border-color: #515050;
+    color: #fff;
+}
+/*FOOTER*/
+
+h2 {
+    margin-top: 2%;
+    font-size: 3em;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer-column {
+    height: 100px;
+    width: 50%;
+    float: left;
+    background-color: #B11116;
+
+    color: #fff;
+}
+
+.footer-column-x {
+    height: inherit;
+}
+
+.footer-column-1 {
+    padding-left: 4em;
+}
+
+.footer-column-2 {
+    padding-right: 2em;
+}
+
+.dynapac-logo-large {
+    height: 70%;
+    margin-top: 2%;
+    float: right;
+}
+
+.site-footer {
+    display: none;
+}
