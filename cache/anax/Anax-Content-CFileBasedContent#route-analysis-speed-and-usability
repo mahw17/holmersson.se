@@ -1,0 +1,149 @@
+O:8:"stdClass":7:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:6:"Analys";}i:0;a:2:{s:3:"url";s:28:"analysis/speed-and-usability";s:4:"text";s:49:"Kmom05 - Analys av laddningstid och användbarhet";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:20:"Kmom04 - Färganalys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:3527:"<h1>Kmom05 - Analys av laddningstid och användbarhet</h1>
+
+<p>Jag har precis som i KMOM04 valt att kolla på Dynapacs hemsida för det är det företag som jag jobbar på.
+Kommer även precis som i KMOM04 jämföra Dynapacs hemsida gentemot dess två största konkurrenter,
+nämligen Bomag och Hamm.</p>
+
+<p>Jag jämför respektive bolags huvudsida, service/eftermarknadssida samt kontaktsidan. Jah har använt
+Googles verktyg PageSpeed för att få fram förbättringsförslag och användarindex. Jag
+har även använt Firefox Dev tools för att få fram omdirigeringar, mängd nedladdad data samt nedladdningstid.</p>
+
+<p>Rådata återfinns <a href="https://docs.google.com/spreadsheets/d/1uHmaVerIDNJTeQNClqrwh8rkGBf_pPKjJh1wqP6UfPs/edit?usp=sharing">här.</a></p>
+
+<h2>Dynapac</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/dynapac.png" class="me w50" alt="Dynapac"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 64 och för mobil variant 60.
+Genomsnittligt antal omdirigeringar: 76st.
+Genomsnittlig laddningstid 4,6 sekunder och nedladdad data 1,9&#160;MB.</p>
+
+<p>Dynapacs kontaktsida drog ner snitten ordentligt då den hade 102 omdirigeringar och en svarstid på 9,2 sekunder.
+Denna sida var en kartvy med ett antal nålhuvuden. Just denna sida skulle nog behöva en nämre analys. I
+övrig var de gemensamma förbättringsförslagen att förminska, komprimera både bilder och kod, samt
+att utnyttja cachelagring.</p>
+
+<h2>Bomag</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/bomag.png" class="me w50" alt="Bomag"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 56 och för mobil variant 43.
+Genomsnittligt antal omdirigeringar: 19st.
+Genomsnittlig laddningstid 4,6 sekunder och nedladdad data 0,4&#160;MB.</p>
+
+<p>Bomag hade i särklass lägst antal omdirigeringar och nedladdad mängd data, trots detta fick
+sidorna sämst PageSpeed index. Förbättringsförslagen var de samma som för Dynapacs sidor.</p>
+
+<h2>Hamm</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/hamm.png" class="me w50" alt="Hamm"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 66 och för mobil variant 46.
+Genomsnittligt antal omdirigeringar: 41st.
+Genomsnittlig laddningstid 4,5 sekunder och nedladdad data 2,8&#160;MB.</p>
+
+<p>Hamm hade bäst PageSpeed index på Desktopvarianten och snabbast svarstid. Detta
+tillsammans med två andra platser i antal omdirigeringar och PageSpeed index för mobil
+gjorde Hamm till testvinnare. Dock med samma förbättringsförslag som övriga två.</p>
+
+<h2>Allmänt</h2>
+
+<p>Merparten av sidorna hade en responstid på mellan 2-3 sekunder och detta upplevdes
+helt okej, oftas laddas merparten av sidorna snabbt och att det enbart är något enskilt
+element som drar ut på tiden.</p>
+
+<p>Då jag inte har någon tidigare erfarenhet av PageSpeed index vill jag kontrollera
+hur dess tre välttillverkares hemsidor står sig i allmänhet. Så några exempel:</p>
+
+<p>Milou (webbyrå i Karlskrona) - 72/100</p>
+
+<p>Mustasch (reklambyrå i Karlskrona) - 43/100</p>
+
+<p>dbwebb - 90/100</p>
+
+<p>GitHub - 46/100</p>
+
+<p>Med denna jämförelse tycker jag nog att de står sig rätt så väl.</p>
+";s:7:"excerpt";s:3527:"<h1>Kmom05 - Analys av laddningstid och användbarhet</h1>
+
+<p>Jag har precis som i KMOM04 valt att kolla på Dynapacs hemsida för det är det företag som jag jobbar på.
+Kommer även precis som i KMOM04 jämföra Dynapacs hemsida gentemot dess två största konkurrenter,
+nämligen Bomag och Hamm.</p>
+
+<p>Jag jämför respektive bolags huvudsida, service/eftermarknadssida samt kontaktsidan. Jah har använt
+Googles verktyg PageSpeed för att få fram förbättringsförslag och användarindex. Jag
+har även använt Firefox Dev tools för att få fram omdirigeringar, mängd nedladdad data samt nedladdningstid.</p>
+
+<p>Rådata återfinns <a href="https://docs.google.com/spreadsheets/d/1uHmaVerIDNJTeQNClqrwh8rkGBf_pPKjJh1wqP6UfPs/edit?usp=sharing">här.</a></p>
+
+<h2>Dynapac</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/dynapac.png" class="me w50" alt="Dynapac"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 64 och för mobil variant 60.
+Genomsnittligt antal omdirigeringar: 76st.
+Genomsnittlig laddningstid 4,6 sekunder och nedladdad data 1,9&#160;MB.</p>
+
+<p>Dynapacs kontaktsida drog ner snitten ordentligt då den hade 102 omdirigeringar och en svarstid på 9,2 sekunder.
+Denna sida var en kartvy med ett antal nålhuvuden. Just denna sida skulle nog behöva en nämre analys. I
+övrig var de gemensamma förbättringsförslagen att förminska, komprimera både bilder och kod, samt
+att utnyttja cachelagring.</p>
+
+<h2>Bomag</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/bomag.png" class="me w50" alt="Bomag"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 56 och för mobil variant 43.
+Genomsnittligt antal omdirigeringar: 19st.
+Genomsnittlig laddningstid 4,6 sekunder och nedladdad data 0,4&#160;MB.</p>
+
+<p>Bomag hade i särklass lägst antal omdirigeringar och nedladdad mängd data, trots detta fick
+sidorna sämst PageSpeed index. Förbättringsförslagen var de samma som för Dynapacs sidor.</p>
+
+<h2>Hamm</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/hamm.png" class="me w50" alt="Hamm"/></p>
+
+<h3>Mätresultat</h3>
+
+<p>Genomsnittligt &#8216;PageSpeed index&#8217; är för de tre sidorna i desktop variant 66 och för mobil variant 46.
+Genomsnittligt antal omdirigeringar: 41st.
+Genomsnittlig laddningstid 4,5 sekunder och nedladdad data 2,8&#160;MB.</p>
+
+<p>Hamm hade bäst PageSpeed index på Desktopvarianten och snabbast svarstid. Detta
+tillsammans med två andra platser i antal omdirigeringar och PageSpeed index för mobil
+gjorde Hamm till testvinnare. Dock med samma förbättringsförslag som övriga två.</p>
+
+<h2>Allmänt</h2>
+
+<p>Merparten av sidorna hade en responstid på mellan 2-3 sekunder och detta upplevdes
+helt okej, oftas laddas merparten av sidorna snabbt och att det enbart är något enskilt
+element som drar ut på tiden.</p>
+
+<p>Då jag inte har någon tidigare erfarenhet av PageSpeed index vill jag kontrollera
+hur dess tre välttillverkares hemsidor står sig i allmänhet. Så några exempel:</p>
+
+<p>Milou (webbyrå i Karlskrona) - 72/100</p>
+
+<p>Mustasch (reklambyrå i Karlskrona) - 43/100</p>
+
+<p>dbwebb - 90/100</p>
+
+<p>GitHub - 46/100</p>
+
+<p>Med denna jämförelse tycker jag nog att de står sig rätt så väl.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:20:"Kmom04 - Färganalys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analyser";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:3:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Analys-sida";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:20:"Kmom04 - Färganalys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:49:"Kmom05 - Analys av laddningstid och användbarhet";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:480:"<div class="byline">
+  <p class="byline-txt"><img src="http://127.0.0.1:8080/design/me/kmom05/exercise/anax-flat/htdocs/../htdocs/img/me-small.png" class="me-small" alt="Självpoträtt"><strong>Marcus Holmersson</strong> läser webbprogrammering vid Blekinge Tekniska Högskola och jobbar samtidigt med produktionsteknik på ett medelstort företag.</p>
+  <p>Jag bor tillsammans med fru och två söner i en villa i Jämjö, cirka 2 mil utanför Karlskrona i Blekinge.</p>
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}}s:11:"frontmatter";a:1:{s:5:"title";s:49:"Kmom05 - Analys av laddningstid och användbarhet";}}

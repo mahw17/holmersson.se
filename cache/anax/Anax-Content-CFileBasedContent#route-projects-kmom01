@@ -1,0 +1,77 @@
+O:8:"stdClass":7:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"projects/";s:4:"text";s:11:"Redovisning";}i:0;a:2:{s:3:"url";s:15:"projects/kmom01";s:4:"text";s:29:"BCCInfoSys - Kitting App (UI)";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom02";}s:8:"previous";a:10:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj1";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2489:"<h1>BCCInfoSys - Kitting App (UI)</h1>
+
+<p>Jag har översatt och personifierat sidorna i content-mappen. Jag har kopierat
+både ME-sidan och bylinen från htmlphp-kursens ME.sida, jag har även kopierat stylen
+från css-filen men på anmodan lagt koden direkt i &#8216;index.md&#8217; och &#8216;byline.md&#8217;.</p>
+
+<p>Jag har lagt till en ny bild på OM-sidan, denna bild tycker jag illustrera att
+webdesign inte bara handlar om det estetiska utan är beroende av en mängd
+olika inputs. I övrigt har jag mestadels kvar informationstexten som jag fick
+med mig från &#8216;mallen&#8217;.</p>
+
+<p>Dbwebbisar.jpg som flashbild har jag ersatt med omslagsbilden från kurslitteraturen
+&#8216;The Principles of Beautiful Web Design&#8217;. Jag har använt samma bild på samtliga
+sidor.</p>
+
+<p>På GitHub har jag lagt upp mitt kursrepo <a href="https://github.com/mahw17/Anax-flat">mahw17/Anax-flat.</a> Känner dock att jag saknar
+full förståelse för hur processen fungerar med push-, tag- och commitkommandon och hur dessa renderar i nya revisioner. Hoppas dock att detta klarnar under kursens gång.</p>
+
+<p>Jag har tidigare aldrig jobbat med ramverk och hade innan denna kurs aldrig
+hört talas om det. Men om jag har tolkat det hela rätt så är det som en mall
+man kan utgå ifrån vid skapande av en ny hemsida med både en upplagd layout-mall
+och fördefinerad funktionallitet.</p>
+
+<p>De nya verktygen &#8216;PHP - pathen&#8217;, &#8216;Composer&#8217;, &#8216;Make&#8217; och &#8216;Node &amp; npm&#8217; var precis som ramverken helt nya och måste erkänna att jag inte alls ännu vet vad dessa skall användas till.</p>
+
+<p>GitHub som kan hjälpa till med versionshantering förstår jag syftet väl, dock hur
+processen fungerar för att ladda upp nya versioner måste jag öva på.</p>
+
+<p>Hittills med Anax Flat har det gått bra, har verkligen inte full förståelse för
+logiken ännu utan det har mest handlat om att ersätta redan befintlig text. Men
+syftet med ramverk förstår jag.</p>
+
+<p>Vet att jag saknar den estetiska ådran och har mer som ambition att skapa välfungerande sidor än &#8216;snygga&#8217; sidor. Dock har jag från de inledande artiklarna
+förstått att web design inte enbart handlar om det estetiska utan även om andra
+bitar så som användarvänlighet etc..</p>
+
+<p>Då jag har tjuvstartat lite innan de första kursgenomgångarna har släppts så har sedan
+tidigare utlagda videosekvenserna varit till hjälp under arbetets gång.</p>
+";s:7:"excerpt";s:2489:"<h1>BCCInfoSys - Kitting App (UI)</h1>
+
+<p>Jag har översatt och personifierat sidorna i content-mappen. Jag har kopierat
+både ME-sidan och bylinen från htmlphp-kursens ME.sida, jag har även kopierat stylen
+från css-filen men på anmodan lagt koden direkt i &#8216;index.md&#8217; och &#8216;byline.md&#8217;.</p>
+
+<p>Jag har lagt till en ny bild på OM-sidan, denna bild tycker jag illustrera att
+webdesign inte bara handlar om det estetiska utan är beroende av en mängd
+olika inputs. I övrigt har jag mestadels kvar informationstexten som jag fick
+med mig från &#8216;mallen&#8217;.</p>
+
+<p>Dbwebbisar.jpg som flashbild har jag ersatt med omslagsbilden från kurslitteraturen
+&#8216;The Principles of Beautiful Web Design&#8217;. Jag har använt samma bild på samtliga
+sidor.</p>
+
+<p>På GitHub har jag lagt upp mitt kursrepo <a href="https://github.com/mahw17/Anax-flat">mahw17/Anax-flat.</a> Känner dock att jag saknar
+full förståelse för hur processen fungerar med push-, tag- och commitkommandon och hur dessa renderar i nya revisioner. Hoppas dock att detta klarnar under kursens gång.</p>
+
+<p>Jag har tidigare aldrig jobbat med ramverk och hade innan denna kurs aldrig
+hört talas om det. Men om jag har tolkat det hela rätt så är det som en mall
+man kan utgå ifrån vid skapande av en ny hemsida med både en upplagd layout-mall
+och fördefinerad funktionallitet.</p>
+
+<p>De nya verktygen &#8216;PHP - pathen&#8217;, &#8216;Composer&#8217;, &#8216;Make&#8217; och &#8216;Node &amp; npm&#8217; var precis som ramverken helt nya och måste erkänna att jag inte alls ännu vet vad dessa skall användas till.</p>
+
+<p>GitHub som kan hjälpa till med versionshantering förstår jag syftet väl, dock hur
+processen fungerar för att ladda upp nya versioner måste jag öva på.</p>
+
+<p>Hittills med Anax Flat har det gått bra, har verkligen inte full förståelse för
+logiken ännu utan det har mest handlat om att ersätta redan befintlig text. Men
+syftet med ramverk förstår jag.</p>
+
+<p>Vet att jag saknar den estetiska ådran och har mer som ambition att skapa välfungerande sidor än &#8216;snygga&#8217; sidor. Dock har jag från de inledande artiklarna
+förstått att web design inte enbart handlar om det estetiska utan även om andra
+bitar så som användarvänlighet etc..</p>
+
+<p>Då jag har tjuvstartat lite innan de första kursgenomgångarna har släppts så har sedan
+tidigare utlagda videosekvenserna varit till hjälp under arbetets gång.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom02";}s:8:"previous";a:10:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj1";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Projects";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:8:{s:14:"projects/index";a:9:{s:4:"file";s:21:"projects/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj1";a:9:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom01";a:9:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom02";a:9:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom03";a:9:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom04";a:9:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom05";a:9:{s:4:"file";s:22:"projects/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"Wireless network and tablets";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom06";a:9:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";}}

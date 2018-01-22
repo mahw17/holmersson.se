@@ -1,0 +1,179 @@
+O:8:"stdClass":7:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:6:"Analys";}i:0;a:2:{s:3:"url";s:26:"analysis/design-principles";s:4:"text";s:25:"Kmom06 - Design principer";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:49:"Kmom05 - Analys av laddningstid och användbarhet";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:28:"analysis/speed-and-usability";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:4266:"<h1>Kmom06 - Design principer</h1>
+
+<p>Jag har även denna vecka valt att kolla på Dynapacs hemsida. Jag jobbar på Dynapac
+och som sagt min tanke med denna utbildning är att jag ska kunna utveckla mindre
+webbapplikationer på egen hand och vill därmed följa de design principer som används
+i det publika gränssnittet.</p>
+
+<p>Jag har precis som tidigare tänkt jämföra Dynapacs hemsida gentemot dess två största konkurrenter,
+nämligen Bomag och Hamm.</p>
+
+<h3>Webbplatsernas mål och syfte</h3>
+
+<p>Samtliga webbplatser har samma målen och syfte att  sprida information kring bolagen. Dels om deras produkter, men även kring andra delar så som eftermarknad, karriärsmöjligheter, nyheter och kontaktinformation.</p>
+
+<p>Det är en sida som är intressant för befintliga och nya kunder, massmedia, samt
+potentiella och befintliga medarbetare.</p>
+
+<h2>Dynapac</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/dynapac.png" class="me w50" alt="Dynapac"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>De designelement som jag tyck sticker ut lite extra är färg (color),
+konturer (shape) och illusioner (space).</p>
+
+<h3>Designprinciper</h3>
+
+<p>Precis som jag skrev i KMOM04 använder Dynapac en monokrom-färgpalett i gråskala och en accentfärg som är inte exakt men i närheten av den röda Dynapac-kulör som återfinns på produkterna.</p>
+
+<p>Färgen används genom merparten av sidan för rubriksättning som skapar en enlighet (unity). Färgen används också för att utmärka (emphasie) vissa objekt när man hoovra över dem.</p>
+
+<p>De har använt konturer i form av regtanglar för att lägga innehållet i. Dessa rektanglar upplevs iaf har “jämna” proportioner till varandra, förutmom huvudmenyn som är aningen för smal. Men detta användadet skapar ocks en enlighet (unity) samt (balans) på sidan.</p>
+
+<p>Rektanglarna har på vissa stället lagts ovanpå andra objekt och skapar då en hierarki och kontrast.</p>
+
+<h3>Undersidor</h3>
+
+<p>Har kollat igenom ett antal undersidor som samtliga följer samma principer som huvudsidan.</p>
+
+<h2>Bomag</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/bomag.png" class="me w50" alt="Bomag"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>Det designelement som jag tycker sticker ut lite extra på Bomags sida är färgen (color).
+Detta är dock det ända.</p>
+
+<h3>Designprinciper</h3>
+
+<p>Detta är verkligen inte en estetisk tilltalande sida. Den gula färgen som är tänkt
+att skapa en enlighet (unity) över sida är så skarp att den bara är jobbig att titta på.
+Annars tycker jag tanken är god då den även skapar en rörelse (movement) för ögon och
+den ramar in sidan bra.</p>
+
+<p>Jag kan även tycka att balansen är rätt dålig då bilders proportioner inte är
+skalenliga gentemot varandra.</p>
+
+<h3>Undersidor</h3>
+
+<p>Har kollat igenom ett antal undersidor och samtliga har denna gula linje som jag
+tycker är det destinkta grafiska elementet.</p>
+
+<h2>Hamm</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/hamm.png" class="me w50" alt="Hamm"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>På Hamms sida är det bilderna som blir sidans fokuspunkt. Jag kan tänka mig att
+man medvetet skalat ner på andra design element just av denna anledning.</p>
+
+<p>Förutom det är det ett tydligt tema gällande rektangulära former genom hela sidan.</p>
+
+<h3>Designprinciper</h3>
+
+<p>Trots att den saknar några distinkta design element tycker jag personligen att val,
+storlek och placering av huvudbilderna (bildspel) kompenserar detta. Det som är lite
+irriterande är proportionen av bild-noten som är alldels för stor.</p>
+
+<p>Kan även tycka om det lilla man har valt att använta sin accentfärg för att ändå skapa
+en enighet genom sidan men ändå även uppmärksamma vissa element.</p>
+
+<h3>Undersidor</h3>
+
+<p>Samtliga undersidor förutom <a href="https://www.hamm.eu/en/technologies/oscillation">&#8220;technologies</a> sidan har bildobjektet som det dominerade elementet. Detta gör att just denna sida blir lite &#8216;fattig&#8217; då enbart den orange kulören sticker ut.</p>
+";s:7:"excerpt";s:4266:"<h1>Kmom06 - Design principer</h1>
+
+<p>Jag har även denna vecka valt att kolla på Dynapacs hemsida. Jag jobbar på Dynapac
+och som sagt min tanke med denna utbildning är att jag ska kunna utveckla mindre
+webbapplikationer på egen hand och vill därmed följa de design principer som används
+i det publika gränssnittet.</p>
+
+<p>Jag har precis som tidigare tänkt jämföra Dynapacs hemsida gentemot dess två största konkurrenter,
+nämligen Bomag och Hamm.</p>
+
+<h3>Webbplatsernas mål och syfte</h3>
+
+<p>Samtliga webbplatser har samma målen och syfte att  sprida information kring bolagen. Dels om deras produkter, men även kring andra delar så som eftermarknad, karriärsmöjligheter, nyheter och kontaktinformation.</p>
+
+<p>Det är en sida som är intressant för befintliga och nya kunder, massmedia, samt
+potentiella och befintliga medarbetare.</p>
+
+<h2>Dynapac</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/dynapac.png" class="me w50" alt="Dynapac"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>De designelement som jag tyck sticker ut lite extra är färg (color),
+konturer (shape) och illusioner (space).</p>
+
+<h3>Designprinciper</h3>
+
+<p>Precis som jag skrev i KMOM04 använder Dynapac en monokrom-färgpalett i gråskala och en accentfärg som är inte exakt men i närheten av den röda Dynapac-kulör som återfinns på produkterna.</p>
+
+<p>Färgen används genom merparten av sidan för rubriksättning som skapar en enlighet (unity). Färgen används också för att utmärka (emphasie) vissa objekt när man hoovra över dem.</p>
+
+<p>De har använt konturer i form av regtanglar för att lägga innehållet i. Dessa rektanglar upplevs iaf har “jämna” proportioner till varandra, förutmom huvudmenyn som är aningen för smal. Men detta användadet skapar ocks en enlighet (unity) samt (balans) på sidan.</p>
+
+<p>Rektanglarna har på vissa stället lagts ovanpå andra objekt och skapar då en hierarki och kontrast.</p>
+
+<h3>Undersidor</h3>
+
+<p>Har kollat igenom ett antal undersidor som samtliga följer samma principer som huvudsidan.</p>
+
+<h2>Bomag</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/bomag.png" class="me w50" alt="Bomag"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>Det designelement som jag tycker sticker ut lite extra på Bomags sida är färgen (color).
+Detta är dock det ända.</p>
+
+<h3>Designprinciper</h3>
+
+<p>Detta är verkligen inte en estetisk tilltalande sida. Den gula färgen som är tänkt
+att skapa en enlighet (unity) över sida är så skarp att den bara är jobbig att titta på.
+Annars tycker jag tanken är god då den även skapar en rörelse (movement) för ögon och
+den ramar in sidan bra.</p>
+
+<p>Jag kan även tycka att balansen är rätt dålig då bilders proportioner inte är
+skalenliga gentemot varandra.</p>
+
+<h3>Undersidor</h3>
+
+<p>Har kollat igenom ett antal undersidor och samtliga har denna gula linje som jag
+tycker är det destinkta grafiska elementet.</p>
+
+<h2>Hamm</h2>
+
+<p><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/analysis/kmom04/hamm.png" class="me w50" alt="Hamm"/></p>
+
+<h3>Webbplatsens design</h3>
+
+<p>På Hamms sida är det bilderna som blir sidans fokuspunkt. Jag kan tänka mig att
+man medvetet skalat ner på andra design element just av denna anledning.</p>
+
+<p>Förutom det är det ett tydligt tema gällande rektangulära former genom hela sidan.</p>
+
+<h3>Designprinciper</h3>
+
+<p>Trots att den saknar några distinkta design element tycker jag personligen att val,
+storlek och placering av huvudbilderna (bildspel) kompenserar detta. Det som är lite
+irriterande är proportionen av bild-noten som är alldels för stor.</p>
+
+<p>Kan även tycka om det lilla man har valt att använta sin accentfärg för att ändå skapa
+en enighet genom sidan men ändå även uppmärksamma vissa element.</p>
+
+<h3>Undersidor</h3>
+
+<p>Samtliga undersidor förutom <a href="https://www.hamm.eu/en/technologies/oscillation">&#8220;technologies</a> sidan har bildobjektet som det dominerade elementet. Detta gör att just denna sida blir lite &#8216;fattig&#8217; då enbart den orange kulören sticker ut.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:49:"Kmom05 - Analys av laddningstid och användbarhet";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:28:"analysis/speed-and-usability";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analyser";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:4:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Analys-sida";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:20:"Kmom04 - Färganalys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:49:"Kmom05 - Analys av laddningstid och användbarhet";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:26:"analysis/design-principles";a:9:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:25:"Kmom06 - Design principer";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:480:"<div class="byline">
+  <p class="byline-txt"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/me-small.png" class="me-small" alt="Självpoträtt"><strong>Marcus Holmersson</strong> läser webbprogrammering vid Blekinge Tekniska Högskola och jobbar samtidigt med produktionsteknik på ett medelstort företag.</p>
+  <p>Jag bor tillsammans med fru och två söner i en villa i Jämjö, cirka 2 mil utanför Karlskrona i Blekinge.</p>
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}}s:11:"frontmatter";a:1:{s:5:"title";s:25:"Kmom06 - Design principer";}}

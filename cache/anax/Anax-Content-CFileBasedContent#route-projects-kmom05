@@ -1,0 +1,49 @@
+O:8:"stdClass":7:{s:4:"file";s:22:"projects/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"projects/";s:4:"text";s:11:"Redovisning";}i:0;a:2:{s:3:"url";s:15:"projects/kmom05";s:4:"text";s:28:"Wireless network and tablets";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom06";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom04";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:1432:"<h1>Wireless network and tablets</h1>
+
+<p>Jag fick min första internetuppkoppling 1995 och då satte man igång datorn,
+gick ner och åt, kom upp igen drog igång Netscape och modemet, borstade tänderna, kom tillbaks
+igen och skrev in sökvägen till önskad sida.. sedan fick man vänta&#8230;</p>
+
+<p>Så trots att detta vara längesedan upplever jag ytterst sällan att en sida är seg.
+Inte heller de tre sidorna jag jämförde upplevde jag seg även fast omdömet via
+PageSpeed inte var det bästa. Men jag förstår att precis som med allt annat ska
+man hushålla med resurserna som finns tillgängliga och detta är ett viktigt område
+med all ökad kommunikation.</p>
+
+<p>Då jag har väldigt lite erfarenhet av denna typ av mätvärden var det svårt för mig
+att avgöra om värden var dåliga, ok eller kanon. PageSpeed gav samma svar mer eller
+mindre hela tiden så det var ju inget direkt som utmärkte sig.</p>
+
+<p>CImage förstår jag nyttan med, speciellt om man har som avsikt att återanvända
+bilden på flertalet ställen men även om man verkligen vill optimera bildstorleken
+vid responsivt användande.</p>
+
+<p>Jag kopierade less-modulen &#8216;figure&#8217;, vars funktionalitet jag har applicerat på tidigare
+upplagda bilder samt på de nya objekten som tillkom i detta kursmoment. Att påstå
+att jag uppnåde något bra sätt att arbete är kanske att ta i, men jag tog iaf till
+mig det som visats.</p>
+";s:7:"excerpt";s:1432:"<h1>Wireless network and tablets</h1>
+
+<p>Jag fick min första internetuppkoppling 1995 och då satte man igång datorn,
+gick ner och åt, kom upp igen drog igång Netscape och modemet, borstade tänderna, kom tillbaks
+igen och skrev in sökvägen till önskad sida.. sedan fick man vänta&#8230;</p>
+
+<p>Så trots att detta vara längesedan upplever jag ytterst sällan att en sida är seg.
+Inte heller de tre sidorna jag jämförde upplevde jag seg även fast omdömet via
+PageSpeed inte var det bästa. Men jag förstår att precis som med allt annat ska
+man hushålla med resurserna som finns tillgängliga och detta är ett viktigt område
+med all ökad kommunikation.</p>
+
+<p>Då jag har väldigt lite erfarenhet av denna typ av mätvärden var det svårt för mig
+att avgöra om värden var dåliga, ok eller kanon. PageSpeed gav samma svar mer eller
+mindre hela tiden så det var ju inget direkt som utmärkte sig.</p>
+
+<p>CImage förstår jag nyttan med, speciellt om man har som avsikt att återanvända
+bilden på flertalet ställen men även om man verkligen vill optimera bildstorleken
+vid responsivt användande.</p>
+
+<p>Jag kopierade less-modulen &#8216;figure&#8217;, vars funktionalitet jag har applicerat på tidigare
+upplagda bilder samt på de nya objekten som tillkom i detta kursmoment. Att påstå
+att jag uppnåde något bra sätt att arbete är kanske att ta i, men jag tog iaf till
+mig det som visats.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom06";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom04";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Projects";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:8:{s:14:"projects/index";a:9:{s:4:"file";s:21:"projects/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj1";a:9:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom01";a:9:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom02";a:9:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom03";a:9:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom04";a:9:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom05";a:9:{s:4:"file";s:22:"projects/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"Wireless network and tablets";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom06";a:9:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:28:"Wireless network and tablets";}}

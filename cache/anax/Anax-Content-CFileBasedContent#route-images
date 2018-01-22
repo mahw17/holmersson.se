@@ -1,0 +1,297 @@
+O:8:"stdClass":7:{s:4:"file";s:9:"images.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:6:"images";s:4:"text";s:21:"Pictures from example";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:480:"<div class="byline">
+  <p class="byline-txt"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/../htdocs/img/me-small.png" class="me-small" alt="Självpoträtt"><strong>Marcus Holmersson</strong> läser webbprogrammering vid Blekinge Tekniska Högskola och jobbar samtidigt med produktionsteknik på ett medelstort företag.</p>
+  <p>Jag bor tillsammans med fru och två söner i en villa i Jämjö, cirka 2 mil utanför Karlskrona i Blekinge.</p>
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:6443:"<h1>Pictures from example</h1>
+
+<figure class="figure figure left w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture1.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture1.png" alt="<code>.figure .left .w50</code> - Skärmdump 1."/></a>
+<figcaption>
+
+<p><code>.figure .left .w50</code> - Skärmdump 1.</p>
+
+</figcaption>
+</figure>
+
+<figure class="figure figure right w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture2.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture2.png" alt="<code>.figure .right .w25</code> - Skärmdump 2."/></a>
+<figcaption>
+
+<p><code>.figure .right .w25</code> - Skärmdump 2.</p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure left w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/2.png" alt="">
+    <figcaption><code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></figcaption>
+</figure> -->
+
+<figure class="figure figure left w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/2.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/2.png" alt="<code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code>"/></a>
+<figcaption>
+
+<p><code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure right w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/3.png" alt="">
+    <figcaption><code>.figure .right .w50</code></figcaption>
+</figure> -->
+
+<figure class="figure figure right w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/3.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/3.png" alt="<code>.figure .right .w50</code>"/></a>
+<figcaption>
+
+<p><code>.figure .right .w50</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure left w25">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/4.png" alt="">
+    <figcaption><code>.figure .left .w25</code></figcaption>
+</figure> -->
+
+<figure class="figure figure left w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/4.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/4.png" alt="<code>.figure .left .w25</code>"/></a>
+<figcaption>
+
+<p><code>.figure .left .w25</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure center">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/5.png" alt="">
+    <figcaption><code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></figcaption>
+</figure> -->
+
+<figure class="figure figure center">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/5.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/5.png" alt="<code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code>"/></a>
+<figcaption>
+
+<p><code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure right w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/6.png" alt="">
+    <figcaption><code>.figure .right .w50</code></figcaption>
+</figure> -->
+
+<figure class="figure figure right w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/6.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/6.png" alt="<code>.figure .right .w50</code>"/></a>
+<figcaption>
+
+<p><code>.figure .right .w50</code></p>
+
+</figcaption>
+</figure>
+
+<!--
+<figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/7.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/7.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/7.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/8.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/8.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/8.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/9.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/9.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/9.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/10.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/10.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/10.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+";s:7:"excerpt";s:6443:"<h1>Pictures from example</h1>
+
+<figure class="figure figure left w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture1.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture1.png" alt="<code>.figure .left .w50</code> - Skärmdump 1."/></a>
+<figcaption>
+
+<p><code>.figure .left .w50</code> - Skärmdump 1.</p>
+
+</figcaption>
+</figure>
+
+<figure class="figure figure right w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture2.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/Capture2.png" alt="<code>.figure .right .w25</code> - Skärmdump 2."/></a>
+<figcaption>
+
+<p><code>.figure .right .w25</code> - Skärmdump 2.</p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure left w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/2.png" alt="">
+    <figcaption><code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></figcaption>
+</figure> -->
+
+<figure class="figure figure left w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/2.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/2.png" alt="<code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code>"/></a>
+<figcaption>
+
+<p><code>.figure .left .w50 - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure right w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/3.png" alt="">
+    <figcaption><code>.figure .right .w50</code></figcaption>
+</figure> -->
+
+<figure class="figure figure right w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/3.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/3.png" alt="<code>.figure .right .w50</code>"/></a>
+<figcaption>
+
+<p><code>.figure .right .w50</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure left w25">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/4.png" alt="">
+    <figcaption><code>.figure .left .w25</code></figcaption>
+</figure> -->
+
+<figure class="figure figure left w25">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/4.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/4.png" alt="<code>.figure .left .w25</code>"/></a>
+<figcaption>
+
+<p><code>.figure .left .w25</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure center">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/5.png" alt="">
+    <figcaption><code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></figcaption>
+</figure> -->
+
+<figure class="figure figure center">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/5.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/5.png" alt="<code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code>"/></a>
+<figcaption>
+
+<p><code>.figure .center - and a very very very long and breaking caption to the image and hoping that the figure structure manages this.</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure right w50">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/6.png" alt="">
+    <figcaption><code>.figure .right .w50</code></figcaption>
+</figure> -->
+
+<figure class="figure figure right w50">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/6.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/6.png" alt="<code>.figure .right .w50</code>"/></a>
+<figcaption>
+
+<p><code>.figure .right .w50</code></p>
+
+</figcaption>
+</figure>
+
+<!--
+<figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/7.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/7.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/7.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/8.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/8.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/8.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/9.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/9.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/9.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+
+<!-- <figure class="figure">
+    <img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/img/kmom05/10.png" alt="">
+    <figcaption><code>.figure</code></figcaption>
+</figure> -->
+
+<figure class="figure figure">
+<a href="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/10.png"><img src="http://127.0.0.1:8080/design/me/kmom06/exercise/anax-flat/htdocs/image/kmom05/10.png" alt="<code>.figure</code>"/></a>
+<figcaption>
+
+<p><code>.figure</code></p>
+
+</figcaption>
+</figure>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:21:"Pictures from example";}}

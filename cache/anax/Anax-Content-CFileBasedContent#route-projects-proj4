@@ -1,0 +1,65 @@
+O:8:"stdClass":7:{s:4:"file";s:21:"projects/130_proj4.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"projects/";s:4:"text";s:8:"Projects";}i:0;a:2:{s:3:"url";s:14:"projects/proj4";s:4:"text";s:28:"BCCInfoSys - Admin view (UI)";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:21:"projects/140_proj5.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj5";}s:8:"previous";a:10:{s:4:"file";s:21:"projects/120_proj3.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj3";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:904:"<h1>BCCInfoSys - Admin view (UI)</h1>
+
+<p><em>Updated 2017-12-26 /M Holmersson</em></p>
+
+<h3>PURPOSE</h3>
+
+<p>It&#8217;s main purpose should be to update the current tact and tact schedule.</p>
+
+<p>In the first release its also used to set the current status on the assembly
+stations and manually set the next tact time (instead of just maintaining a
+tact schedule)</p>
+
+<h3>STATUS</h3>
+
+<p>Released as a prototype K.0.0.</p>
+
+<h3>NEXT TO DO</h3>
+
+<ul>
+<li>Update acc to user input.</li>
+<li>Push to BitBucket.</li>
+<li>Change image to new visual identity.</li>
+<li>Update footer, current design is not using all width.</li>
+</ul>
+
+<h3>ISSUES</h3>
+
+<p>Current setup is very dependent on that the production leader always is available
+to update the assembly status and when the line tacts is available to update next
+tact time.</p>
+
+<p><a href="https://bitbucket.org">Link to BitBucket repository</a></p>
+";s:7:"excerpt";s:904:"<h1>BCCInfoSys - Admin view (UI)</h1>
+
+<p><em>Updated 2017-12-26 /M Holmersson</em></p>
+
+<h3>PURPOSE</h3>
+
+<p>It&#8217;s main purpose should be to update the current tact and tact schedule.</p>
+
+<p>In the first release its also used to set the current status on the assembly
+stations and manually set the next tact time (instead of just maintaining a
+tact schedule)</p>
+
+<h3>STATUS</h3>
+
+<p>Released as a prototype K.0.0.</p>
+
+<h3>NEXT TO DO</h3>
+
+<ul>
+<li>Update acc to user input.</li>
+<li>Push to BitBucket.</li>
+<li>Change image to new visual identity.</li>
+<li>Update footer, current design is not using all width.</li>
+</ul>
+
+<h3>ISSUES</h3>
+
+<p>Current setup is very dependent on that the production leader always is available
+to update the assembly status and when the line tacts is available to update next
+tact time.</p>
+
+<p><a href="https://bitbucket.org">Link to BitBucket repository</a></p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:21:"projects/140_proj5.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj5";}s:8:"previous";a:10:{s:4:"file";s:21:"projects/120_proj3.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"projects/proj3";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Projects";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:8:{s:14:"projects/index";a:9:{s:4:"file";s:21:"projects/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj1";a:9:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:42:"BCC GEN VI INFORMATION SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj2";a:9:{s:4:"file";s:21:"projects/110_proj2.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj3";a:9:{s:4:"file";s:21:"projects/120_proj3.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj4";a:9:{s:4:"file";s:21:"projects/130_proj4.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj5";a:9:{s:4:"file";s:21:"projects/140_proj5.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj6";a:9:{s:4:"file";s:21:"projects/150_proj6.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"Wireless network and tablets";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj7";a:9:{s:4:"file";s:21:"projects/160_proj7.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:40:"Dynapac Production Karlskrona - Homepage";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";}}

@@ -1,0 +1,93 @@
+O:8:"stdClass":7:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"projects/";s:4:"text";s:11:"Redovisning";}i:0;a:2:{s:3:"url";s:15:"projects/kmom03";s:4:"text";s:28:"BCCInfoSys - Admin view (UI)";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom04";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom02";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2551:"<h1>BCCInfoSys - Admin view (UI)</h1>
+
+<h2>Allmänt</h2>
+
+<p>Det tog en bra stund innan det någorlunda släppte hur man skulle ta sig an denna
+uppgiften. Efter en initial genomgång av den beskrivande texten, länkade artiklar
+och tittande på tillgängliga videosekvenser kändes uppgiften gigantiskt. Det visade
+sig också att detta utan tvekan har varit den mest tidskrävande övningen hittills.</p>
+
+<p>Att få hjälp av ett rutmönster tror jag är kanon för att styra upp innehållet på
+en hemsida, iaf initialt då man inte har ögat för denna typ av uppgift. Jag har
+aldrig tidigare jobbat med detta och det var mycket svårt, tyckte även detta
+kursmoment var alldeles för stort jämfört tidigare inlämningsuppgifter.</p>
+
+<p>Börjar så smått ser finessen med LESS, att använda variabler och mixings har helt
+klar sina fördelar.</p>
+
+<h2>Del 1 - Vertikalt grid.</h2>
+
+<p>Jag utgick från min vgrid-fil som jag skapat under övningsuppgiften när jag
+skapade &#8216;layout.less&#8217;. Jag hade på detta sätt med mig merparten av funktionaliteten
+som behövdes. Det jag fick göra för att följa kravspecifikationen var att flytta
+mixingen showgrid() från denna fil till en egen &#8216;grid-helpers.less&#8217;.</p>
+
+<p>Det var inga problem att skapa en ny fil (grid.md) och denna fyllde jag med
+kravspecifikationen för denna övningen i brist på andra idèer. Dock fick jag
+laborera ett tag för att få fram en sidomeny. Denna sidomeny fyllde jag med länkar
+till  artiklarna som var refererande i kursmaterialet.</p>
+
+<p>Därefter blev det dock ett väldigt trixande fram och tillbaka för att få regionerna
+att följa det vertikala gridet. Till slut blev det okej tycker jag. Vissa saker
+fick jag ignorera, till exempel huvudmenyn som numer består av 5 val som skulle
+dela på ett jämt antal &#8216;grids&#8217;, det blir ju lite svårt om jag inte vill välja
+antalet 10 eller 20. Det tog även sin lilla tid att få till sidan hyfsat
+responsiv.</p>
+
+<h2>Del 2 - Horisontellt grid.</h2>
+
+<p>Min nya sidan (typography.md) kopierade jag från den som användes av Andreas vid
+kursmomentsgenomgången.</p>
+
+<p>Jag bytte inte teckensnitt eller den generella teckenstorleken däremot bytte jag
+storlek på diverse special teckensnitt, men gjorde det främst för att få ett
+bättre flyt i texten. Detta tillsammans med att jag laborerade med botten- och
+topmarginalerna fick till det rätt bra. Jag fokuserade främst på de &#8216;fasta&#8217;
+elementen så som heading och footer men även början av main-delarna.</p>
+";s:7:"excerpt";s:2551:"<h1>BCCInfoSys - Admin view (UI)</h1>
+
+<h2>Allmänt</h2>
+
+<p>Det tog en bra stund innan det någorlunda släppte hur man skulle ta sig an denna
+uppgiften. Efter en initial genomgång av den beskrivande texten, länkade artiklar
+och tittande på tillgängliga videosekvenser kändes uppgiften gigantiskt. Det visade
+sig också att detta utan tvekan har varit den mest tidskrävande övningen hittills.</p>
+
+<p>Att få hjälp av ett rutmönster tror jag är kanon för att styra upp innehållet på
+en hemsida, iaf initialt då man inte har ögat för denna typ av uppgift. Jag har
+aldrig tidigare jobbat med detta och det var mycket svårt, tyckte även detta
+kursmoment var alldeles för stort jämfört tidigare inlämningsuppgifter.</p>
+
+<p>Börjar så smått ser finessen med LESS, att använda variabler och mixings har helt
+klar sina fördelar.</p>
+
+<h2>Del 1 - Vertikalt grid.</h2>
+
+<p>Jag utgick från min vgrid-fil som jag skapat under övningsuppgiften när jag
+skapade &#8216;layout.less&#8217;. Jag hade på detta sätt med mig merparten av funktionaliteten
+som behövdes. Det jag fick göra för att följa kravspecifikationen var att flytta
+mixingen showgrid() från denna fil till en egen &#8216;grid-helpers.less&#8217;.</p>
+
+<p>Det var inga problem att skapa en ny fil (grid.md) och denna fyllde jag med
+kravspecifikationen för denna övningen i brist på andra idèer. Dock fick jag
+laborera ett tag för att få fram en sidomeny. Denna sidomeny fyllde jag med länkar
+till  artiklarna som var refererande i kursmaterialet.</p>
+
+<p>Därefter blev det dock ett väldigt trixande fram och tillbaka för att få regionerna
+att följa det vertikala gridet. Till slut blev det okej tycker jag. Vissa saker
+fick jag ignorera, till exempel huvudmenyn som numer består av 5 val som skulle
+dela på ett jämt antal &#8216;grids&#8217;, det blir ju lite svårt om jag inte vill välja
+antalet 10 eller 20. Det tog även sin lilla tid att få till sidan hyfsat
+responsiv.</p>
+
+<h2>Del 2 - Horisontellt grid.</h2>
+
+<p>Min nya sidan (typography.md) kopierade jag från den som användes av Andreas vid
+kursmomentsgenomgången.</p>
+
+<p>Jag bytte inte teckensnitt eller den generella teckenstorleken däremot bytte jag
+storlek på diverse special teckensnitt, men gjorde det främst för att få ett
+bättre flyt i texten. Detta tillsammans med att jag laborerade med botten- och
+topmarginalerna fick till det rätt bra. Jag fokuserade främst på de &#8216;fasta&#8217;
+elementen så som heading och footer men även början av main-delarna.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom04";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom02";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Projects";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:8:{s:14:"projects/index";a:9:{s:4:"file";s:21:"projects/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj1";a:9:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom01";a:9:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom02";a:9:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom03";a:9:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom04";a:9:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom05";a:9:{s:4:"file";s:22:"projects/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"Wireless network and tablets";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom06";a:9:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";}}

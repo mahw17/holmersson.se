@@ -1,0 +1,81 @@
+O:8:"stdClass":7:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"projects/";s:4:"text";s:11:"Redovisning";}i:0;a:2:{s:3:"url";s:15:"projects/kmom02";s:4:"text";s:26:"BCCInfoSys - LineView (IS)";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom03";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom01";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2475:"<h1>BCCInfoSys - LineView (IS)</h1>
+
+<p>Genom att göra övningen &#8216;Bygg ett tema till Anax Flat&#8217; vad det mesta
+avklarat gällande inlämningsupgiften &#8216;Bygg ut ditt Anax Flat med eget LESS tema&#8217;.</p>
+
+<p>Jag har försökt att lägga all css-kod i less-moduler som jag importerar till min
+modules.less. Jag har skapat nya moduler för att styla byline, footer, header och
+index-sidan (dvs ME-sidan).</p>
+
+<p>Två saker jag har varit lite osäker kring är (1) att vissa moduler är länkade och
+kan uppdateras vid en &#8220;make upgrade&#8221; så dessa moduler bör man ej &#8216;vårda&#8217; medans
+nya moduler som ej är länkade vårdar jag direkt i modulen. Kan tänka mig att detta skulle
+vara lite konfunderande för någon som ska ta över/uppdatera koden. (2) Modulen
+responsive-menu.less är en länkad modul som innehåller många variabler, dock kunde
+jag inte sätta variablerna i min header-modul som jag tycker borde vara det rimliga
+stället utan fick sätta dessa från style.less filen.</p>
+
+<p>Jag har utgått från media-queries modulen när jag gjort sidan repsponsive. Jag har
+valt att ta bort byline och några bilder helt och hållet när skärmstorleken har
+blivit för liten.</p>
+
+<p>När jag kör &#8216;make test&#8217; eller några av validatorerna (CSS/Unicorn) så får jag en hel del fel,
+dock inte på den kod som jag själv har skapat utan på den kod som kommit med ramverket.
+Jag har valt att ignorera dessa.</p>
+
+<p>Har ju börjat förstå en viss del av LESS funktionaliteten (variabler t.ex) men
+har mycket kvar att lära. Att dela upp css-koden i moduler känns väldigt logiskt,
+men det tycker jag är lika logiskt att sortera den i &#8216;rena&#8217; css-filer som i less-filer.</p>
+
+<p>Efter att sett Andreas filmsekvenser angående de olika funktionaliteterna i LESS,
+förstår jag syftet med språket. Däremot fattar jag inte allt och jag tycker css-koden kan
+bli lite mer otydlig när den väl är kompilerad, exempelvis slås många klasser ihop.</p>
+
+<p>Make och makefiler är helt nytt och som jag fattar det är det som att skapa genvägar
+till funktioner man använder ofta. Så här långt har jag väl inga direkta tankar om
+make utan följer instruktionerna mer eller mindre till pricka.</p>
+
+<p>Andreas videos om LESS gav mig mycket och Mikaels videosekvens där han gjorde
+övningen &#8216;Bygg ett tema till Anax Flat&#8217; körde jag parallellt samtidigt som jag själv
+gjorde övningen.</p>
+";s:7:"excerpt";s:2475:"<h1>BCCInfoSys - LineView (IS)</h1>
+
+<p>Genom att göra övningen &#8216;Bygg ett tema till Anax Flat&#8217; vad det mesta
+avklarat gällande inlämningsupgiften &#8216;Bygg ut ditt Anax Flat med eget LESS tema&#8217;.</p>
+
+<p>Jag har försökt att lägga all css-kod i less-moduler som jag importerar till min
+modules.less. Jag har skapat nya moduler för att styla byline, footer, header och
+index-sidan (dvs ME-sidan).</p>
+
+<p>Två saker jag har varit lite osäker kring är (1) att vissa moduler är länkade och
+kan uppdateras vid en &#8220;make upgrade&#8221; så dessa moduler bör man ej &#8216;vårda&#8217; medans
+nya moduler som ej är länkade vårdar jag direkt i modulen. Kan tänka mig att detta skulle
+vara lite konfunderande för någon som ska ta över/uppdatera koden. (2) Modulen
+responsive-menu.less är en länkad modul som innehåller många variabler, dock kunde
+jag inte sätta variablerna i min header-modul som jag tycker borde vara det rimliga
+stället utan fick sätta dessa från style.less filen.</p>
+
+<p>Jag har utgått från media-queries modulen när jag gjort sidan repsponsive. Jag har
+valt att ta bort byline och några bilder helt och hållet när skärmstorleken har
+blivit för liten.</p>
+
+<p>När jag kör &#8216;make test&#8217; eller några av validatorerna (CSS/Unicorn) så får jag en hel del fel,
+dock inte på den kod som jag själv har skapat utan på den kod som kommit med ramverket.
+Jag har valt att ignorera dessa.</p>
+
+<p>Har ju börjat förstå en viss del av LESS funktionaliteten (variabler t.ex) men
+har mycket kvar att lära. Att dela upp css-koden i moduler känns väldigt logiskt,
+men det tycker jag är lika logiskt att sortera den i &#8216;rena&#8217; css-filer som i less-filer.</p>
+
+<p>Efter att sett Andreas filmsekvenser angående de olika funktionaliteterna i LESS,
+förstår jag syftet med språket. Däremot fattar jag inte allt och jag tycker css-koden kan
+bli lite mer otydlig när den väl är kompilerad, exempelvis slås många klasser ihop.</p>
+
+<p>Make och makefiler är helt nytt och som jag fattar det är det som att skapa genvägar
+till funktioner man använder ofta. Så här långt har jag väl inga direkta tankar om
+make utan följer instruktionerna mer eller mindre till pricka.</p>
+
+<p>Andreas videos om LESS gav mig mycket och Mikaels videosekvens där han gjorde
+övningen &#8216;Bygg ett tema till Anax Flat&#8217; körde jag parallellt samtidigt som jag själv
+gjorde övningen.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom03";}s:8:"previous";a:10:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"projects/kmom01";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Projects";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:8:{s:14:"projects/index";a:9:{s:4:"file";s:21:"projects/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"projects/proj1";a:9:{s:4:"file";s:21:"projects/100_proj1.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:35:"BCC GEN VI TACT SYSTEM (BCCInfoSys)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom01";a:9:{s:4:"file";s:22:"projects/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"BCCInfoSys - Kitting App (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom02";a:9:{s:4:"file";s:22:"projects/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"BCCInfoSys - LineView (IS)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom03";a:9:{s:4:"file";s:22:"projects/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"BCCInfoSys - Admin view (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom04";a:9:{s:4:"file";s:22:"projects/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:29:"Digital assembly instructions";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom05";a:9:{s:4:"file";s:22:"projects/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:28:"Wireless network and tablets";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"projects/kmom06";a:9:{s:4:"file";s:22:"projects/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:34:"BCCInfoSys - Assembler portal (UI)";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:26:"BCCInfoSys - LineView (IS)";}}

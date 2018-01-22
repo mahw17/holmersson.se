@@ -1,0 +1,34 @@
+O:8:"stdClass":7:{s:4:"file";s:24:"toolbox/100_anax_flat.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:10:"web design";a:1:{s:3:"key";s:10:"web design";}}s:7:"content";s:694:"<h1>Anax Flat - Frame work</h1>
+
+<figure class="figure">
+<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png?w=120" alt=""/></a>
+
+</figure>
+
+<p>This site is based on the frame work <a href="https://dbwebb.se/anax/inledning">Anax-Flat</a> which was created by Mikael Roos
+at Blekinge Technical University. It is an open source code available at <a href="https://github.com/mosbth/anax">GitHub</a>.</p>
+
+<p>The intention of a framework is to give the site a template that can be reused
+on multiple pages.</p>
+
+<p>In Dynapac its used for the local production website (this).</p>
+";s:7:"excerpt";s:694:"<h1>Anax Flat - Frame work</h1>
+
+<figure class="figure">
+<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png?w=120" alt=""/></a>
+
+</figure>
+
+<p>This site is based on the frame work <a href="https://dbwebb.se/anax/inledning">Anax-Flat</a> which was created by Mikael Roos
+at Blekinge Technical University. It is an open source code available at <a href="https://github.com/mosbth/anax">GitHub</a>.</p>
+
+<p>The intention of a framework is to give the site a template that can be reused
+on multiple pages.</p>
+
+<p>In Dynapac its used for the local production website (this).</p>
+";}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:18:"toolbox/101_php.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:27:"PHP: Hypertext Preprocessor";s:11:"publishTime";i:1514242800;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"toolbox/php";}s:8:"previous";N;}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:8:"toolbox/";s:4:"text";s:7:"Toolbox";}i:0;a:2:{s:3:"url";s:17:"toolbox/anax_flat";s:4:"text";s:22:"Anax Flat - Frame work";}}}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:0:{}}}s:11:"block-about";a:5:{s:5:"title";s:16:"Tool description";s:4:"data";a:2:{s:7:"content";s:177:"<h4>Tool description</h4>
+
+<p>A short summary of the tool should be given, what its used for,
+where a user can find documentation and how its used in existing
+applications.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}}s:11:"frontmatter";a:4:{s:6:"author";s:12:"M Holmersson";s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{i:0;s:10:"web design";}s:5:"title";s:22:"Anax Flat - Frame work";}}

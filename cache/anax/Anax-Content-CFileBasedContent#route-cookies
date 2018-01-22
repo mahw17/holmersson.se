@@ -1,0 +1,9 @@
+O:8:"stdClass":7:{s:4:"file";s:10:"cookies.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:2:{s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:79:"<h1>About cookies</h1>
+
+<p>What about cookies?
+Yes.. what about cookies???</p>
+";s:7:"excerpt";s:79:"<h1>About cookies</h1>
+
+<p>What about cookies?
+Yes.. what about cookies???</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:13:"About cookies";}}

@@ -1,0 +1,17 @@
+O:8:"stdClass":7:{s:4:"file";s:21:"block/footer-col-2.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:1;s:7:"tocable";b:0;s:5:"views";a:1:{s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:413:"<h4>Literature</h4>
+
+<ul>
+<li><a href="http://speakingjs.com/es5">Speaking JavaScript</a></li>
+<li><a href="http://anandology.com/python-practice-book/index.html">Python</a></li>
+<li><a href="http://ww7.daz-pi.com/?gkwrf=https%3A%2F%2Fmedium.mybridge.co%2F19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8">Raspberry Pi</a></li>
+<li><a href="http://www.hackingwithphp.com">PHP and MYSql</a></li>
+</ul>
+";s:7:"excerpt";s:413:"<h4>Literature</h4>
+
+<ul>
+<li><a href="http://speakingjs.com/es5">Speaking JavaScript</a></li>
+<li><a href="http://anandology.com/python-practice-book/index.html">Python</a></li>
+<li><a href="http://ww7.daz-pi.com/?gkwrf=https%3A%2F%2Fmedium.mybridge.co%2F19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8">Raspberry Pi</a></li>
+<li><a href="http://www.hackingwithphp.com">PHP and MYSql</a></li>
+</ul>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:10:"Literature";}}
