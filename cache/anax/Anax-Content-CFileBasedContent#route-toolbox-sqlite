@@ -1,7 +1,7 @@
-O:8:"stdClass":7:{s:4:"file";s:21:"toolbox/102_sqlite.md";s:7:"section";s:3:"102";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:13:"database, sql";a:1:{s:3:"key";s:13:"database, sql";}}s:7:"content";s:955:"<h1>SQLite - Database</h1>
+O:8:"stdClass":7:{s:4:"file";s:21:"toolbox/102_sqlite.md";s:7:"section";s:3:"102";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:13:"database, sql";a:1:{s:3:"key";s:13:"database, sql";}}s:7:"content";s:953:"<h1>SQLite - Database</h1>
 
 <figure class="figure center w50">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/SQLite.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/SQLite.png?w=150" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/SQLite.png"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/SQLite.png" alt=""/></a>
 
 </figure>
 
@@ -12,10 +12,10 @@ O:8:"stdClass":7:{s:4:"file";s:21:"toolbox/102_sqlite.md";s:7:"section";s:3:"102
 <p>The database in BccInfoSys is a SQLite database.</p>
 
 <p><a href="https://sqlite.org">Official website</a></p>
-";s:7:"excerpt";s:955:"<h1>SQLite - Database</h1>
+";s:7:"excerpt";s:953:"<h1>SQLite - Database</h1>
 
 <figure class="figure center w50">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/SQLite.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/SQLite.png?w=150" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/SQLite.png"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/SQLite.png" alt=""/></a>
 
 </figure>
 

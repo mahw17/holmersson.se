@@ -1,7 +1,7 @@
-O:8:"stdClass":7:{s:4:"file";s:18:"toolbox/101_php.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:20:"programming language";a:1:{s:3:"key";s:20:"programming language";}}s:7:"content";s:658:"<h1>PHP: Hypertext Preprocessor</h1>
+O:8:"stdClass":7:{s:4:"file";s:18:"toolbox/101_php.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:20:"programming language";a:1:{s:3:"key";s:20:"programming language";}}s:7:"content";s:666:"<h1>PHP: Hypertext Preprocessor</h1>
 
 <figure class="figure">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/img/dynapac/PHP.svg"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/img/dynapac/PHP.svg" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/PHP.svg"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/PHP.svg" alt=""/></a>
 
 </figure>
 
@@ -15,10 +15,10 @@ for clarification purposes.</p>
 web applications.</p>
 
 <p><a href="https://secure.php.net">Official website</a></p>
-";s:7:"excerpt";s:658:"<h1>PHP: Hypertext Preprocessor</h1>
+";s:7:"excerpt";s:666:"<h1>PHP: Hypertext Preprocessor</h1>
 
 <figure class="figure">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/img/dynapac/PHP.svg"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/img/dynapac/PHP.svg" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/PHP.svg"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/PHP.svg" alt=""/></a>
 
 </figure>
 

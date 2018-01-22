@@ -87,7 +87,7 @@ class CFileCache
     {
         $file = $this->filename($key);
 
-        // json
+                // json
         // text
         if (!file_put_contents($file, serialize($item))) {
             throw new \Exception(

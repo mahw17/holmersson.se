@@ -6,7 +6,7 @@ category:
 ...
 Anax Flat - Frame work
 ==================================
-[FIGURE src="image/dynapac/anax_128x128.png?w=120"]
+[FIGURE src="img/dynapac/anax_128x128.png]
 
 This site is based on the frame work [Anax-Flat](https://dbwebb.se/anax/inledning) which was created by Mikael Roos
 at Blekinge Technical University. It is an open source code available at [GitHub](https://github.com/mosbth/anax).

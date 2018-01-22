@@ -1,7 +1,7 @@
-O:8:"stdClass":7:{s:4:"file";s:24:"toolbox/100_anax_flat.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:10:"web design";a:1:{s:3:"key";s:10:"web design";}}s:7:"content";s:694:"<h1>Anax Flat - Frame work</h1>
+O:8:"stdClass":7:{s:4:"file";s:24:"toolbox/100_anax_flat.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:12:"M Holmersson";a:1:{s:7:"acronym";s:12:"M Holmersson";}}s:9:"published";s:10:"2017-12-26";s:8:"category";a:1:{s:10:"web design";a:1:{s:3:"key";s:10:"web design";}}s:7:"content";s:692:"<h1>Anax Flat - Frame work</h1>
 
 <figure class="figure">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png?w=120" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/anax_128x128.png"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/anax_128x128.png" alt=""/></a>
 
 </figure>
 
@@ -12,10 +12,10 @@ at Blekinge Technical University. It is an open source code available at <a href
 on multiple pages.</p>
 
 <p>In Dynapac its used for the local production website (this).</p>
-";s:7:"excerpt";s:694:"<h1>Anax Flat - Frame work</h1>
+";s:7:"excerpt";s:692:"<h1>Anax Flat - Frame work</h1>
 
 <figure class="figure">
-<a href="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png"><img src="http://127.0.0.1:8080/design/me/proj/htdocs/image/dynapac/anax_128x128.png?w=120" alt=""/></a>
+<a href="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/anax_128x128.png"><img src="http://localhost:8080/repo/holmersson.se/htdocs/img/dynapac/anax_128x128.png" alt=""/></a>
 
 </figure>
 

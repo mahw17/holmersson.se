@@ -4,7 +4,7 @@ titleBreadcrumb: HOME
 
 <div class="slider-text">
     <div class="slider-text-inner">
-        <h2>Bew Gorp WebApps</h2>
+        <h2>Marcus Holmersson WebApps</h2>
         <h4>Your specialist in roller manufacturing web applications</h4>
     </div>
 </div>
@@ -14,7 +14,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/lineView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/image/dynapac/lineview.PNG?w=150"/>
+                    <img src="../htdocs/img/dynapac/lineview.PNG"/>
                 </div>
                 <h3>INFO SCREENS</h3>
                 <p>Applications for visualize process status.</p>
@@ -25,7 +25,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/kittingView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/image/dynapac/ui-example.jpg?w=150"/>
+                    <img src="../htdocs/img/dynapac/ui-example.jpg"/>
                 </div>
                 <h3>USER INTERFACE</h3>
                 <p>Applications for users interaction.</p>
@@ -37,7 +37,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/adminView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/image/dynapac/admin.JPG?w=150"/>
+                    <img src="../htdocs/img/dynapac/admin.JPG"/>
                 </div>
                 <h3>ADMIN INTERFACE</h3>
                 <p>Applications for administrator interaction.</p>
@@ -49,7 +49,7 @@ titleBreadcrumb: HOME
         <a href="../Instructions/test1.html">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/image/dynapac/instructions.JPG?w=150"/>
+                    <img src="../htdocs/img/dynapac/instructions.JPG"/>
                 </div>
                 <h3>ASSEMBLY INSTRUCTIONS</h3>
                 <p>Digital assembly instructions</p>
@@ -66,7 +66,7 @@ titleBreadcrumb: HOME
     some of the different tools I use for creating web applications.</h4>
     <br>
     <i>Best regards</i><br>
-    <i>Bew Gorp</i><br>
-    <i>BG WebApps</i>
+    <i>Marcus Holmersson</i><br>
+    <i>MH WebApps</i>
     </div>
 </div>

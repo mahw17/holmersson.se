@@ -1,16 +1,16 @@
-O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:2:{s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"HOME";s:7:"content";s:2726:"<div class="slider-text">
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:2:{s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/flashIMG.png";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"HOME";s:7:"content";s:2744:"<div class="slider-text">
     <div class="slider-text-inner">
-        <h2>Bew Gorp WebApps</h2>
+        <h2>Marcus Holmersson WebApps</h2>
         <h4>Your specialist in roller manufacturing web applications</h4>
     </div>
 </div>
 
 <div class="home-product-container">
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/lineView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/lineView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/lineview.PNG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/lineview.PNG"/>
                 </div>
                 <h3>INFO SCREENS</h3>
                 <p>Applications for visualize process status.</p>
@@ -18,10 +18,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
         </a>
     </div>
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/kittingView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/kittingView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/ui-example.jpg?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/ui-example.jpg"/>
                 </div>
                 <h3>USER INTERFACE</h3>
                 <p>Applications for users interaction.</p>
@@ -30,10 +30,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     </div>
 
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/adminView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/adminView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/admin.JPG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/admin.JPG"/>
                 </div>
                 <h3>ADMIN INTERFACE</h3>
                 <p>Applications for administrator interaction.</p>
@@ -42,10 +42,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     </div>
 
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../Instructions/test1.html">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../Instructions/test1.html">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/instructions.JPG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/instructions.JPG"/>
                 </div>
                 <h3>ASSEMBLY INSTRUCTIONS</h3>
                 <p>Digital assembly instructions</p>
@@ -62,23 +62,23 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     some of the different tools I use for creating web applications.</h4>
     <br>
     <i>Best regards</i><br>
-    <i>Bew Gorp</i><br>
-    <i>BG WebApps</i>
+    <i>Marcus Holmersson</i><br>
+    <i>MH WebApps</i>
     </div>
 </div>
-";s:7:"excerpt";s:2726:"<div class="slider-text">
+";s:7:"excerpt";s:2744:"<div class="slider-text">
     <div class="slider-text-inner">
-        <h2>Bew Gorp WebApps</h2>
+        <h2>Marcus Holmersson WebApps</h2>
         <h4>Your specialist in roller manufacturing web applications</h4>
     </div>
 </div>
 
 <div class="home-product-container">
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/lineView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/lineView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/lineview.PNG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/lineview.PNG"/>
                 </div>
                 <h3>INFO SCREENS</h3>
                 <p>Applications for visualize process status.</p>
@@ -86,10 +86,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
         </a>
     </div>
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/kittingView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/kittingView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/ui-example.jpg?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/ui-example.jpg"/>
                 </div>
                 <h3>USER INTERFACE</h3>
                 <p>Applications for users interaction.</p>
@@ -98,10 +98,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     </div>
 
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../BCCInfoSys/adminView">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../BCCInfoSys/adminView">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/admin.JPG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/admin.JPG"/>
                 </div>
                 <h3>ADMIN INTERFACE</h3>
                 <p>Applications for administrator interaction.</p>
@@ -110,10 +110,10 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     </div>
 
     <div class="home-product-box">
-        <a href="http://127.0.0.1:8080/design/me/proj/htdocs/../Instructions/test1.html">
+        <a href="http://localhost:8080/repo/holmersson.se/htdocs/../Instructions/test1.html">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="http://127.0.0.1:8080/design/me/proj/htdocs/../htdocs/image/dynapac/instructions.JPG?w=150"/>
+                    <img src="http://localhost:8080/repo/holmersson.se/htdocs/../htdocs/img/dynapac/instructions.JPG"/>
                 </div>
                 <h3>ASSEMBLY INSTRUCTIONS</h3>
                 <p>Digital assembly instructions</p>
@@ -130,8 +130,8 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
     some of the different tools I use for creating web applications.</h4>
     <br>
     <i>Best regards</i><br>
-    <i>Bew Gorp</i><br>
-    <i>BG WebApps</i>
+    <i>Marcus Holmersson</i><br>
+    <i>MH WebApps</i>
     </div>
 </div>
-";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"HOME";s:5:"title";s:16:"Bew Gorp WebApps";}}
+";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"HOME";s:5:"title";s:25:"Marcus Holmersson WebApps";}}

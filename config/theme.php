@@ -17,7 +17,7 @@ return [
             "bodyClass"     => [],
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | BG",
+            "title_append"  => " | MH",
             "favicon"       => "img/dynapac/dynapac_favicon.png",//"img/dynapac/favicon.ico",
 
             // Style and stylesheets

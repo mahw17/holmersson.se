@@ -7,7 +7,7 @@ category:
 SQLite - Database
 ==================================
 
-[FIGURE src="image/dynapac/SQLite.png?w=150" class="center w50"]
+[FIGURE src="img/dynapac/SQLite.png" class="center w50"]
 
 SQLite is a relational database management system contained in a C programming library. In contrast to many other database management systems, SQLite is not a client–server database engine. Rather, it is embedded into the end program.
 
