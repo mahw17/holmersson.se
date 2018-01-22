@@ -14,7 +14,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/lineView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/img/dynapac/lineview.PNG"/>
+                    <img src="../img/dynapac/lineview.PNG"/>
                 </div>
                 <h3>INFO SCREENS</h3>
                 <p>Applications for visualize process status.</p>
@@ -25,7 +25,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/kittingView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/img/dynapac/ui-example.jpg"/>
+                    <img src="../img/dynapac/ui-example.jpg"/>
                 </div>
                 <h3>USER INTERFACE</h3>
                 <p>Applications for users interaction.</p>
@@ -37,7 +37,7 @@ titleBreadcrumb: HOME
         <a href="../BCCInfoSys/adminView/">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/img/dynapac/admin.JPG"/>
+                    <img src="../img/dynapac/admin.JPG"/>
                 </div>
                 <h3>ADMIN INTERFACE</h3>
                 <p>Applications for administrator interaction.</p>
@@ -49,7 +49,7 @@ titleBreadcrumb: HOME
         <a href="../Instructions/test1.html">
             <div class="inner-home-product-box">
                 <div class="home-product-box-img">
-                    <img src="../htdocs/img/dynapac/instructions.JPG"/>
+                    <img src="../img/dynapac/instructions.JPG"/>
                 </div>
                 <h3>ASSEMBLY INSTRUCTIONS</h3>
                 <p>Digital assembly instructions</p>
